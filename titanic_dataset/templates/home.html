@@ -1,0 +1,41 @@
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</head>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href='{{ url_for('index') }}'>Dan's Blog</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href='{{ url_for('index') }}'>Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ url_for('about') }}">About</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<h1>Titanic Survival Prediction</h1>
+<br>
+<p>This webpage is an example of using machine learning for prediction. <br>Input the information below and
+see if you would have survived the titanic!
+</p>
+<br>
+<form  method="POST">
+    {# This hidden_tag is a CSRF security feature. #}
+    {{ form.hidden_tag() }}
+    {{ form.pclass.label }}<br>{{form.pclass}}
+    <br>
+    {{form.sibsp.label}}<br>{{form.sibsp}}
+    <br>
+    {{form.sex.label}}<br>{{form.sex}}
+    {{form.parch.label}}<br>{{form.parch}}
+    <br>
+    {{form.fare.label}}<br>{{form.fare}}
+   <br> <br>
+    {{ form.submit() }}
+</form>
