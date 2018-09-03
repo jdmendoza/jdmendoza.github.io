@@ -1,0 +1,33 @@
+Name Rarity Normal Shadow Gold Diamond
+"Healing Insight" Common 3396 167 41 4
+"Mottled Ranger" Common 3524 168 39 4
+"Jungle Scout" Common 3416 183 39 8
+"Nether Nanny" Common 3478 167 48 6
+Seraph Epic 454 26 4 5
+"Paragon of Fortune" Common 3461 168 35 5
+"Ruthless Caipora" Common 3303 190 29 5
+Sharpen Common 3446 188 33 13
+"Field Nurse" Common 3412 175 34 2
+"Needle-Fang Chameleon" Rare 1192 69 20 1
+"Papal Bull" Common 3422 196 32 7
+"Heads or Tails" Common 3410 173 48 7
+"Faraday Cage" Rare 1229 60 14 4
+"High Thaumaturge" Rare 1259 56 16 4
+"Expectant Chicken" Epic 453 21 7 1
+"Lord of Whispers" Legendary 467 34 6 0
+"Friendly Mimic" Rare 1294 62 17 4
+"Canopic Hoarder" Rare 1169 68 5 4
+"Dead Man's Flail" Common 3439 190 43 5
+"Pandora, The Curious" Legendary 439 42 11 0
+Pallbearer Rare 1236 65 21 4
+"Scythes of the Harvest" Epic 431 28 7 1
+"Dimension Looper" Common 3440 178 31 8
+"Ferocious Rougarou" Common 3440 183 36 6
+"Equivalent Exchange" Epic 490 27 2 1
+"Spelljam Shaman" Rare 1140 51 16 3
+"Highborn Knight" Epic 428 28 2 2
+"Amplification Machine" Epic 457 31 8 1
+Leywraith Rare 1226 77 14 4
+"Rebel Quartermaster" Rare 1281 56 16 3
+"Spellwrought Angel" Common 3527 183 40 10
+"Lupine Elemental" Common 3315 181 34 2

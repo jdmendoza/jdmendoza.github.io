@@ -1,0 +1,33 @@
+Name Rarity Normal Shadow Gold Diamond
+Runestorm Common 3460 212 32 5
+"Bast's Claws" Rare 1259 68 11 5
+"Tithe Collector" Common 3369 191 44 5
+"Smoke Bomb" Common 3553 210 33 6
+"Identity Thief" Epic 486 18 3 2
+"Blacksmith Armourer" Common 3422 177 29 8
+"Reborn Pharaoh" Rare 1228 71 15 1
+"Synergy Golem" Epic 466 19 8 1
+"FIll the Coffers" Epic 490 30 3 2
+"Hunger Daemon" Rare 1187 72 12 0
+"Malfunctioning Servitor" Rare 1189 67 13 1
+"Stun Gun Construct" Rare 1229 66 17 2
+"Outcast Amazon" Rare 1255 58 12 3
+"Petard Elder" Rare 1174 56 16 6
+"Servant of Inti" Rare 1245 74 16 3
+"The Cleansing" Rare 1198 60 11 1
+"Pyrrhic Incantation" Common 3490 156 39 9
+"Deathdealt Netherine" Rare 1168 62 15 2
+"Boost Walker" Epic 460 19 2 2
+"Shadow Slash" Common 3484 185 35 8
+"Foolhardy Berserker" Common 3461 186 45 5
+"Flying Carpet" Common 3454 173 38 7
+"Sleep Dart" Common 3398 180 38 4
+"Wasteful Shax" Common 3488 185 51 6
+Arcana-Daemon Common 3512 180 44 4
+"Burrowing Scarab" Common 3438 157 34 7
+"Rune Smuggler" Common 3531 188 43 7
+"Red Fume Dash" Epic 483 28 4 1
+"Blessed Jackalope" Common 3425 176 26 8
+"Midnight Cat" Common 3380 194 32 6
+"Portal Wrangler" Common 3580 208 37 7
+"Faustian Pact" Epic 475 26 4 2

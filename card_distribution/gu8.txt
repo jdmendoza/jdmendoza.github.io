@@ -1,0 +1,33 @@
+Name Rarity Normal Shadow Gold Diamond
+Beam Rare 1242 54 12 4
+"Drider of the Depths" Rare 1187 53 8 4
+"Aegis Commander" Rare 1261 64 14 2
+"Wilds Lifebonder" Rare 1260 72 10 5
+"Set Oshi" Legendary 474 42 5 1
+"Scarab Swarm" Epic 482 32 4 0
+"Shade Walker" Rare 1221 56 14 1
+"Ares Peacemaker" Rare 1218 75 21 1
+"Enduring Lemure" Common 3430 181 37 14
+"Half Life" Rare 1250 72 24 1
+Tutankhamun Legendary 449 40 9 2
+"Labyrinth Minotaur" Epic 466 27 2 2
+"Hallowed Keeper" Common 3459 173 35 3
+"Crimson Oni" Common 3461 184 37 8
+Pixielock Rare 1199 66 7 5
+"Gentle Monk" Common 3505 186 40 9
+"Guerilla Sabotage" Common 3548 178 53 11
+"Sphinx Cat" Common 3342 170 43 8
+"Amazon Hearteater" Rare 1188 57 16 3
+"Hephaestus, The Enchanter" Legendary 410 35 8 0
+"Revenant Lynx" Rare 1208 63 10 2
+"Shrine of Sobek" Rare 1252 77 8 3
+"Laertes' Vendetta" Common 3416 201 42 3
+"Millenium Matryoshka" Common 3437 192 42 6
+Bearstrider Common 3473 174 37 8
+"Vile Mantis" Common 3454 157 35 6
+"Death Masque" Epic 456 27 6 1
+"Radiant Guardian" Common 3426 174 35 6
+"Devouring Golem" Rare 1263 62 15 2
+"Master of Indulgences" Common 3471 184 30 8
+"Anputian Magus" Rare 1209 60 10 2
+"La Bolefuego" Legendary 417 51 9 1

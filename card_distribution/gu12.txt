@@ -1,0 +1,26 @@
+Name Rarity Normal Shadow Gold Diamond
+"The Mastermind" Legendary 436 32 12 1
+"Apocalypse, Now!" Epic 480 26 3 4
+"Odin, Endless War" Legendary 469 43 12 0
+"Hades, Underworld Lord" Legendary 483 45 8 2
+"Azure Djinni" Common 3420 178 50 8
+"Balance Ethereals" Rare 1186 77 8 3
+"War, Incarnate" Legendary 512 41 15 1
+Crystallax Rare 1246 65 12 0
+"Warden of Kek" Common 3448 181 35 6
+"Death, Unborn" Legendary 460 31 8 1
+"Rampaging Leviathan" Rare 1261 71 13 6
+"Master of Surprises" Legendary 442 28 4 0
+"The Gatekeeper" Legendary 460 35 8 1
+"Anubis, Guide of Souls" Legendary 464 40 7 0
+"Raiding Kraken" Rare 1250 63 8 0
+"Avatar of Magic" Legendary 452 35 10 1
+"Rebirth Planetar" Common 3424 199 43 13
+"Tyet, Heir To The Sky" Legendary 458 45 9 1
+"Specialist Force" Epic 454 24 6 0
+"Arius, Augur Paroxysm" Legendary 505 36 7 2
+"Light, Ascended" Legendary 442 41 11 4
+"Dire Demilich" Epic 472 29 4 0
+"O Fortuna" Rare 1247 60 9 3
+"Deathwish Thanetar" Epic 487 32 5 1
+"Leyline Djiin" Epic 461 23 6 1

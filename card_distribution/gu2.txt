@@ -1,0 +1,33 @@
+Name Rarity Normal Shadow Gold Diamond
+"Enflame Self" Rare 1196 66 17 1
+"A Real Man" Common 3433 176 32 7
+"Corrupt Ceremony" Rare 1209 75 11 1
+"Thresher Bug" Common 3408 179 39 6
+"Peculiar Spellwyrm" Legendary 427 34 6 2
+"Leviathan Hunter" Common 3477 165 39 5
+Chainflip Rare 1173 68 15 5
+"Forty Days" Common 3436 165 34 13
+Mugging Rare 1146 75 12 4
+"Dangerous Ritual" Common 3517 169 42 10
+Demoralise Epic 482 23 6 0
+Whetstone Common 3523 165 42 6
+"Lost In The Depths" Epic 476 26 3 0
+"Will O' Wisp" Common 3388 157 47 7
+"Ancient Texts" Rare 1183 57 15 1
+Recursion Common 3433 200 36 6
+"Apate Conspirator" Rare 1204 60 18 3
+"Wind-Up Roller" Rare 1212 60 12 0
+"Three's a Crowd" Epic 459 27 3 0
+Ragnarok Rare 1193 72 11 3
+"Golem Excavator" Rare 1168 61 7 1
+"Rolling Watcher" Common 3488 174 40 13
+"Iron-tooth Goblin" Common 3459 196 38 11
+"Enraged Ally" Rare 1174 71 19 1
+"Guardian of the Gates" Legendary 425 48 9 0
+"Beyond the Grave" Rare 1176 67 12 2
+"Hurl Weapon" Common 3436 172 40 5
+"Unruly Shredder" Rare 1259 64 20 4
+"Arcane Transcendent" Common 3367 171 39 12
+"Gleeful Pillager" Common 3458 164 44 5
+"Read The Leaves" Epic 467 22 5 0
+"Shady Merchant" Common 3471 178 40 6

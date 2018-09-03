@@ -1,0 +1,382 @@
+Name Rarity Normal Shadow Gold Diamond
+"Catacomb Curator" Rare 1286.0 77.0 10.0 1.0
+"Gloam Druid" Epic 462.0 29.0 5.0 1.0
+Sanctify Common 3551.0 179.0 52.0 7.0
+Charm Rare 1270.0 67.0 12.0 3.0
+"Healing Insight" Common 3466.0 169.0 41.0 4.0
+"Respected Jarl" Epic 481.0 23.0 12.0 0.0
+"Faustian Pact" Epic 486.0 26.0 4.0 2.0
+Mimicus Legendary 453.0 41.0 12.0 0.0
+Levitate Common 3579.0 187.0 33.0 3.0
+"Mountain Greatwyrm" Rare 1200.0 76.0 16.0 1.0
+"Dimension Looper" Common 3532.0 183.0 31.0 8.0
+"Osiris, the Eternal" Legendary 471.0 37.0 1.0 3.0
+"Anubis, Guide of Souls" Legendary 470.0 40.0 7.0 0.0
+"Portal Wrangler" Common 3670.0 214.0 37.0 7.0
+"Midnight Cat" Common 3460.0 199.0 33.0 6.0
+"Odin, Endless War" Legendary 477.0 44.0 12.0 0.0
+"Valkyrie Heartsworn" Common 3466.0 170.0 38.0 10.0
+"Ashen Drake" Epic 503.0 27.0 5.0 1.0
+"Apate Conspirator" Rare 1231.0 62.0 18.0 3.0
+"Hephaestus, The Enchanter" Legendary 414.0 35.0 8.0 0.0
+"Radiant Guardian" Common 3516.0 177.0 36.0 7.0
+Photogenesis Epic 499.0 36.0 4.0 2.0
+"Spellwrought Angel" Common 3587.0 190.0 42.0 10.0
+"Sentinel Princess" Common 3527.0 184.0 40.0 2.0
+"Foolhardy Berserker" Common 3545.0 189.0 46.0 5.0
+"Rolling Watcher" Common 3564.0 178.0 42.0 14.0
+"Natural Selection" Rare 1270.0 54.0 8.0 7.0
+"Spiral Golem" Rare 1271.0 65.0 18.0 2.0
+"Hurl Weapon" Common 3525.0 177.0 42.0 5.0
+"Arrest Warrant" Common 3469.0 181.0 42.0 13.0
+"Ruins Explorer" Rare 1230.0 75.0 13.0 1.0
+"Pocket Channeler" Common 3615.0 179.0 33.0 10.0
+"Dread Pirate" Common 3532.0 206.0 38.0 9.0
+"Simple Satyr" Common 3653.0 192.0 26.0 6.0
+"Unnatural Binding" Rare 1285.0 59.0 7.0 1.0
+"Felid Tracker" Common 3529.0 185.0 43.0 8.0
+"Untold Greed" Rare 1252.0 55.0 10.0 4.0
+"Sacred Lore" Rare 1282.0 69.0 11.0 3.0
+"Ignean Roulette" Common 3566.0 188.0 30.0 6.0
+"The Black Argo" Epic 451.0 27.0 2.0 1.0
+"Anputian Magus" Rare 1245.0 61.0 10.0 2.0
+"Rebirth Planetar" Common 3519.0 203.0 44.0 13.0
+"Farsight Explorer" Epic 487.0 28.0 9.0 0.0
+"Dire Demilich" Epic 485.0 32.0 4.0 0.0
+"Scarab Swarm" Epic 494.0 34.0 4.0 0.0
+"Boost Walker" Epic 475.0 19.0 3.0 2.0
+"Pharaoh's Body-Double" Common 3517.0 178.0 34.0 10.0
+"Swelling Boon" Common 3577.0 176.0 44.0 11.0
+Nullmaw Epic 493.0 29.0 2.0 0.0
+"Expectant Chicken" Epic 463.0 22.0 7.0 1.0
+Pallbearer Rare 1266.0 65.0 21.0 4.0
+Spellbound Common 3585.0 183.0 43.0 10.0
+"Deathdealt Netherine" Rare 1193.0 63.0 15.0 2.0
+Uproot Common 3525.0 178.0 38.0 9.0
+"Avatar of Light" Legendary 466.0 20.0 7.0 2.0
+Pickpocket Common 3545.0 182.0 22.0 6.0
+"Balance Ethereals" Rare 1221.0 77.0 8.0 3.0
+"Golem Centurion" Rare 1305.0 54.0 15.0 3.0
+"Petard Elder" Rare 1210.0 59.0 17.0 6.0
+"Malfunctioning Servitor" Rare 1221.0 67.0 14.0 1.0
+"Greed Banestrider" Rare 1213.0 58.0 13.0 4.0
+Ragnarok Rare 1229.0 74.0 12.0 3.0
+"Scythes of the Harvest" Epic 440.0 29.0 7.0 1.0
+"Golem Excavator" Rare 1204.0 61.0 8.0 1.0
+Recursion Common 3513.0 208.0 37.0 8.0
+"Fickle Toupee" Legendary 437.0 38.0 10.0 2.0
+"Set Oshi" Legendary 478.0 42.0 5.0 1.0
+"Enraged Ally" Rare 1198.0 72.0 19.0 1.0
+"Annoying Combatant" Common 3575.0 198.0 27.0 5.0
+"Hunger Daemon" Rare 1222.0 73.0 12.0 0.0
+Overclock Common 3621.0 207.0 39.0 10.0
+"Inflammable Imbecile" Common 3587.0 200.0 37.0 4.0
+"Light, Ascended" Legendary 449.0 42.0 11.0 4.0
+"Death, Unborn" Legendary 465.0 31.0 8.0 1.0
+"Arcane Transcendent" Common 3461.0 171.0 40.0 12.0
+Nethergram Rare 1257.0 69.0 20.0 3.0
+"Siren of the Grave" Rare 1237.0 58.0 20.0 3.0
+"Amazon Hearteater" Rare 1225.0 58.0 17.0 3.0
+"Influential Incubus" Epic 434.0 31.0 6.0 1.0
+"Half Life" Rare 1286.0 73.0 24.0 1.0
+"Ancient Curse" Common 3510.0 201.0 37.0 8.0
+"Broken Harvester" Rare 1222.0 79.0 32.0 4.0
+"Eternal Servant" Common 3648.0 191.0 36.0 2.0
+"Nether Nanny" Common 3561.0 173.0 51.0 6.0
+"Gleeful Pillager" Common 3553.0 167.0 46.0 5.0
+"Read The Leaves" Epic 478.0 22.0 5.0 0.0
+"Amplification Machine" Epic 470.0 31.0 8.0 1.0
+"Shady Merchant" Common 3552.0 182.0 40.0 6.0
+"Lupine Elemental" Common 3405.0 184.0 35.0 2.0
+"Synergy Golem" Epic 477.0 20.0 8.0 1.0
+"Magic Inks" Rare 1258.0 72.0 6.0 1.0
+"Runic Familiar" Common 3577.0 163.0 27.0 10.0
+"Hall of Mirrors" Epic 499.0 35.0 4.0 0.0
+Demogorgon Epic 504.0 30.0 6.0 2.0
+"That Which Aches" Legendary 456.0 45.0 7.0 1.0
+"Blade Trader Drosis" Legendary 472.0 36.0 8.0 0.0
+"Glass Cannon" Legendary 458.0 32.0 10.0 0.0
+"The Sky Reaver" Legendary 472.0 32.0 7.0 1.0
+"Hades, Underworld Lord" Legendary 489.0 45.0 8.0 2.0
+"Hercules, Son of Zeus" Legendary 442.0 43.0 13.0 2.0
+"Heka's Enchantress" Common 3501.0 170.0 31.0 3.0
+"Me Two Three" Common 3569.0 178.0 35.0 9.0
+"Shadow Prince" Legendary 474.0 37.0 11.0 2.0
+"Raze Imp" Common 3615.0 178.0 32.0 5.0
+"Pilgrim of the Cause" Rare 1245.0 54.0 9.0 1.0
+"Underbrush Boar" Rare 1289.0 42.0 11.0 2.0
+"Erratic Summons" Rare 1292.0 51.0 15.0 3.0
+"Carcass Vulture" Common 3440.0 191.0 32.0 7.0
+"Aegis Commander" Rare 1298.0 66.0 14.0 2.0
+Reinforcements Common 3459.0 206.0 34.0 10.0
+"Soul Jar" Rare 1242.0 64.0 9.0 1.0
+"Rift Scholar" Common 3590.0 233.0 35.0 7.0
+"Hotep the Embalmer" Legendary 439.0 50.0 8.0 0.0
+Tutankhamun Legendary 454.0 40.0 9.0 2.0
+"Master of Surprises" Legendary 446.0 28.0 4.0 0.0
+"Devouring Golem" Rare 1291.0 63.0 16.0 2.0
+Runestorm Common 3551.0 213.0 33.0 5.0
+"Penitent Spear" Common 3510.0 170.0 43.0 8.0
+"Golden Harpe" Epic 497.0 23.0 4.0 1.0
+"Astraea's Envoy" Legendary 481.0 47.0 11.0 0.0
+"Agrodor Protector" Common 3599.0 170.0 36.0 7.0
+"Tomb Robber" Common 3588.0 191.0 26.0 9.0
+"Friendly Mimic" Rare 1325.0 64.0 18.0 4.0
+"Fusing Fleshspawn" Epic 485.0 24.0 4.0 1.0
+"Enflame Self" Rare 1231.0 69.0 17.0 1.0
+"A Real Man" Common 3517.0 183.0 34.0 8.0
+"Corrupt Ceremony" Rare 1242.0 76.0 11.0 1.0
+"Cudgel of Atonement" Rare 1208.0 85.0 18.0 1.0
+"Avatar of Death" Legendary 455.0 33.0 11.0 1.0
+"Mana Thief" Rare 1234.0 62.0 14.0 2.0
+"Lara Grim, Spellthief" Legendary 461.0 44.0 11.0 0.0
+"Namebinder Zal'zie" Legendary 466.0 29.0 15.0 1.0
+"Nemris, the Unstable" Legendary 426.0 41.0 5.0 0.0
+"Compost Charm" Epic 469.0 26.0 7.0 3.0
+"Fertility Idol" Common 3504.0 203.0 30.0 11.0
+"Cyrene's Blessing" Common 3556.0 172.0 42.0 5.0
+"Wrath Zealot" Epic 502.0 18.0 5.0 1.0
+"Hallowed Keeper" Common 3566.0 175.0 36.0 4.0
+"Gentle Monk" Common 3581.0 195.0 40.0 9.0
+"Death Masque" Epic 465.0 27.0 6.0 1.0
+"Underhand Thug" Common 3560.0 148.0 24.0 10.0
+Chainflip Rare 1202.0 69.0 15.0 5.0
+Pixielock Rare 1224.0 67.0 7.0 5.0
+"Tyr, The Just" Legendary 464.0 28.0 11.0 1.0
+"Dread Queen Persephone" Legendary 480.0 38.0 12.0 1.0
+"Mistress Scythia" Legendary 440.0 39.0 4.0 1.0
+"Arius, Augur Paroxysm" Legendary 512.0 37.0 7.0 2.0
+"Cambion Runelord" Common 3584.0 168.0 26.0 4.0
+"Tyet, Heir To The Sky" Legendary 461.0 45.0 9.0 1.0
+"Nephthys' Guardian" Common 3609.0 194.0 46.0 10.0
+"The Gatekeeper" Legendary 461.0 36.0 8.0 1.0
+"Flying Carpet" Common 3553.0 175.0 40.0 7.0
+"Odysseus, Tried Victor" Legendary 435.0 29.0 10.0 1.0
+"Fanatic of Khnum" Rare 1279.0 71.0 10.0 4.0
+"Mirror, Mirror" Common 3470.0 199.0 34.0 6.0
+"Jason, Medea's Muse" Legendary 430.0 29.0 11.0 1.0
+"Dwarven Smiths" Epic 479.0 23.0 4.0 0.0
+Furies Epic 486.0 31.0 5.0 1.0
+"Wizened Warlock" Epic 455.0 32.0 6.0 1.0
+"Bulwark of the Sky" Epic 538.0 27.0 4.0 2.0
+"Dangerous Ritual" Common 3609.0 174.0 43.0 10.0
+"Apocalypse, Now!" Epic 484.0 27.0 3.0 4.0
+"Tormentor Fiend" Epic 524.0 31.0 11.0 2.0
+"Mercenary Daemon" Common 3584.0 180.0 44.0 6.0
+"Azure Djinni" Common 3514.0 179.0 52.0 8.0
+Raid! Common 3578.0 204.0 45.0 11.0
+"The Nether Prince" Legendary 474.0 33.0 8.0 0.0
+"Sulphuric Rain" Epic 500.0 24.0 6.0 0.0
+"Lost In The Depths" Epic 489.0 26.0 3.0 0.0
+"Horus, The Protector" Legendary 474.0 32.0 1.0 0.0
+"Blind Cyclops" Common 3460.0 183.0 43.0 11.0
+"Will O' Wisp" Common 3466.0 165.0 48.0 7.0
+"Wild Spellsinger" Rare 1229.0 57.0 14.0 6.0
+"Blade Trial Valkyrie" Rare 1274.0 64.0 19.0 2.0
+"Vine Armour" Common 3518.0 209.0 36.0 5.0
+"Endow Wings" Common 3522.0 180.0 42.0 11.0
+"Dense Fog" Rare 1247.0 85.0 12.0 1.0
+Exoscout Rare 1237.0 61.0 14.0 3.0
+"Ancient Texts" Rare 1212.0 57.0 16.0 1.0
+"Trapdoor Assassin" Common 3477.0 178.0 39.0 6.0
+"Planetar Envoy" Rare 1214.0 69.0 16.0 1.0
+"Daemonic Offering" Epic 488.0 26.0 2.0 0.0
+"High Thaumaturge" Rare 1293.0 56.0 18.0 4.0
+"Leyline Djiin" Epic 469.0 23.0 6.0 1.0
+"Quicksilver Dragon" Common 3486.0 194.0 41.0 7.0
+"Aquatic Torturer" Common 3357.0 178.0 38.0 8.0
+"Balance Summoner" Epic 521.0 30.0 3.0 2.0
+"Hooded Doppelganger" Epic 509.0 21.0 9.0 2.0
+"Rockdrake Egg" Rare 1238.0 57.0 10.0 7.0
+"Iron Kopis" Rare 1223.0 75.0 9.0 2.0
+"Ares' Eruption" Rare 1230.0 73.0 14.0 2.0
+"Roadside Outfitter" Rare 1160.0 57.0 8.0 4.0
+"Actuary of War" Rare 1262.0 66.0 10.0 1.0
+"Highborn Knight" Epic 439.0 28.0 2.0 2.0
+"Raving Fan" Rare 1259.0 70.0 15.0 1.0
+Cyclops Rare 1230.0 70.0 11.0 5.0
+"Master Tactician" Rare 1305.0 64.0 13.0 2.0
+"Returned Einherjar" Rare 1243.0 57.0 16.0 6.0
+"War, Incarnate" Legendary 522.0 41.0 15.0 1.0
+"Shadow Scryer" Common 3571.0 168.0 37.0 8.0
+Clone Epic 465.0 27.0 7.0 1.0
+"Three's a Crowd" Epic 475.0 27.0 4.0 0.0
+Mugging Rare 1173.0 77.0 13.0 4.0
+"Shade Walker" Rare 1246.0 61.0 14.0 1.0
+"Ares Peacemaker" Rare 1247.0 75.0 21.0 1.0
+"Enduring Lemure" Common 3517.0 187.0 37.0 14.0
+"Contagious Ghoul" Common 3507.0 198.0 50.0 9.0
+"Leviathan Hunter" Common 3573.0 171.0 41.0 5.0
+"Peculiar Spellwrym" Legendary 432.0 35.0 6.0 2.0
+"Thresher Bug" Common 3515.0 181.0 40.0 6.0
+"Paragon of Fortune" Common 3556.0 170.0 37.0 6.0
+"Fallen Aether" Common 3484.0 194.0 34.0 4.0
+"Deathsworn Raider" Common 3617.0 176.0 42.0 11.0
+"Alexis, Archon’s Sword" Legendary 460.0 29.0 8.0 2.0
+"Prodigious Armourer" Common 3613.0 214.0 32.0 4.0
+"Shrine of Sobek" Rare 1279.0 78.0 8.0 3.0
+"Millenium Matryoshka" Common 3526.0 198.0 42.0 7.0
+"Ruthless Caipora" Common 3385.0 195.0 29.0 5.0
+"Grass Roots" Epic 459.0 27.0 4.0 1.0
+"Proud Conscriptor" Epic 500.0 24.0 6.0 3.0
+"Nimble Pixie" Common 3579.0 181.0 39.0 5.0
+"Field Nurse" Common 3497.0 179.0 35.0 2.0
+"Sit Down!" Common 3502.0 200.0 44.0 6.0
+"Bast's Claws" Rare 1295.0 69.0 11.0 5.0
+"Tithe Collector" Common 3457.0 196.0 44.0 5.0
+"Ocular Fiend" Epic 500.0 24.0 6.0 0.0
+"Deathwish Thanetar" Epic 497.0 33.0 5.0 1.0
+"Conniving Djinn" Common 3513.0 176.0 42.0 11.0
+"Hollow Pillager" Rare 1288.0 72.0 11.0 1.0
+"Empire's Footman" Rare 1250.0 64.0 18.0 3.0
+"Phalanx Champion" Rare 1252.0 68.0 18.0 4.0
+"Canopic Hoarder" Rare 1196.0 70.0 5.0 4.0
+"Pyramid Warden" Rare 1170.0 67.0 4.0 2.0
+"Unruly Shredder" Rare 1290.0 66.0 20.0 4.0
+"Sonic Juggernaut" Rare 1206.0 68.0 14.0 2.0
+"Guardian of the Gates" Legendary 433.0 48.0 9.0 0.0
+"Wind-Up Roller" Rare 1236.0 63.0 12.0 0.0
+"Stun Gun Construct" Rare 1258.0 69.0 18.0 2.0
+"Field Martyr" Rare 1190.0 75.0 17.0 1.0
+"Outcast Amazon" Rare 1294.0 58.0 12.0 3.0
+"Bonepact Hunter" Rare 1186.0 83.0 10.0 3.0
+"Spelljam Shaman" Rare 1170.0 52.0 16.0 4.0
+"Servant of Inti" Rare 1268.0 74.0 16.0 3.0
+"Advocate of Brilliance" Rare 1232.0 62.0 18.0 8.0
+Leywraith Rare 1248.0 78.0 14.0 4.0
+"Aetherfuel Alchemist" Rare 1194.0 60.0 11.0 0.0
+"Pyrrhic Incantation" Common 3573.0 165.0 39.0 11.0
+"Trojan Golem" Rare 1314.0 53.0 14.0 1.0
+"Dragon Tooth Warrior" Rare 1158.0 65.0 6.0 4.0
+"Reflection Elementalist" Rare 1269.0 84.0 9.0 4.0
+"Netherborne Binder" Rare 1298.0 67.0 17.0 2.0
+"Wasteful Shax" Common 3566.0 190.0 52.0 7.0
+"Spirit Animal" Common 3574.0 180.0 22.0 2.0
+"Indulgent Satrap" Common 3575.0 192.0 31.0 8.0
+"Burrowing Scarab" Common 3531.0 160.0 35.0 7.0
+"La Bolefuego" Legendary 421.0 51.0 9.0 1.0
+"Hyksosian Chariot" Common 3597.0 192.0 33.0 12.0
+"Warden of Kek" Common 3538.0 185.0 35.0 6.0
+"Avatar of War" Legendary 429.0 50.0 12.0 0.0
+"Blessed Jackalope" Common 3513.0 180.0 27.0 8.0
+"Mark of the Warden" Common 3493.0 204.0 40.0 7.0
+"Crimson Oni" Common 3560.0 186.0 38.0 8.0
+"Odin's Whiteraven" Common 3513.0 194.0 39.0 6.0
+"False Peace" Rare 1270.0 81.0 9.0 1.0
+"Bonded Warrior" Common 3480.0 179.0 27.0 4.0
+Sarcophagus Common 3523.0 178.0 28.0 7.0
+"Sphinx Cat" Common 3427.0 174.0 43.0 8.0
+"Mottled Ranger" Common 3624.0 173.0 40.0 4.0
+"Jungle Scout" Common 3487.0 191.0 40.0 9.0
+"Revenant Lynx" Rare 1236.0 63.0 10.0 2.0
+"Venerable Gryphon" Rare 1312.0 75.0 9.0 3.0
+"Rampaging Leviathan" Rare 1293.0 72.0 13.0 6.0
+"Crush Construct" Epic 485.0 31.0 3.0 0.0
+Bearstrider Common 3572.0 175.0 37.0 9.0
+"Vile Mantis" Common 3543.0 161.0 36.0 7.0
+Omnipresence Common 3643.0 214.0 35.0 10.0
+"Wilds Lifebonder" Rare 1291.0 73.0 12.0 5.0
+Seraph Epic 468.0 26.0 4.0 5.0
+"Laertes' Vendetta" Common 3502.0 204.0 43.0 3.0
+"Red Fume Dash" Epic 500.0 28.0 5.0 1.0
+"Rune Smuggler" Common 3623.0 192.0 43.0 7.0
+"Hypnos Puzzle Box" Rare 1235.0 70.0 10.0 4.0
+"Dick Puddlecote" Legendary 442.0 30.0 11.0 1.0
+Beam Rare 1274.0 54.0 12.0 4.0
+"Rebel Quartermaster" Rare 1310.0 57.0 16.0 3.0
+"The Cleansing" Rare 1223.0 61.0 11.0 1.0
+"Ra's Ascension" Rare 1247.0 61.0 15.0 1.0
+"Alms For Service" Rare 1269.0 73.0 8.0 1.0
+Ambush! Rare 1280.0 68.0 23.0 0.0
+"Faraday Cage" Rare 1263.0 64.0 14.0 4.0
+"Gunpowder Plot" Rare 1199.0 61.0 16.0 2.0
+"Lore & Order Inspector" Rare 1226.0 65.0 14.0 0.0
+"Drider of the Depths" Rare 1229.0 55.0 10.0 4.0
+"Ferocious Rougarou" Common 3520.0 188.0 36.0 6.0
+Swashbuckler Rare 1240.0 46.0 14.0 1.0
+"Dead Man's Flail" Common 3524.0 195.0 43.0 5.0
+"Runaway Trebuchet" Common 3527.0 180.0 33.0 5.0
+"Blacksmith Armourer" Common 3510.0 183.0 34.0 8.0
+"Guerilla Sabotage" Common 3649.0 184.0 53.0 12.0
+"Druidic Summons" Common 3649.0 202.0 36.0 4.0
+"Lightfoot Informant" Common 3634.0 184.0 36.0 6.0
+Whetstone Common 3613.0 174.0 42.0 6.0
+"The Harvester" Legendary 455.0 28.0 8.0 0.0
+"Raiding Kraken" Rare 1281.0 65.0 9.0 0.0
+"Blood Rage" Common 3613.0 194.0 34.0 5.0
+"Out of Its Misery" Common 3587.0 185.0 33.0 9.0
+"Take Them All On" Rare 1244.0 76.0 12.0 1.0
+Demoralise Epic 498.0 24.0 6.0 0.0
+"Equivalent Exchange" Epic 500.0 27.0 2.0 1.0
+"Arms Trafficker" Common 3517.0 206.0 41.0 7.0
+"Salvaged Sentinel" Rare 1249.0 68.0 19.0 3.0
+"Engaged Enchanter" Common 3606.0 180.0 47.0 6.0
+"Warp Engineer" Common 3505.0 177.0 33.0 11.0
+"Lord of Whispers" Legendary 471.0 35.0 6.0 0.0
+"Well of Power" Rare 1280.0 64.0 10.0 2.0
+"Inquisitor's Summons" Common 3547.0 174.0 41.0 10.0
+"Eudaemon Evangelist" Rare 1289.0 63.0 16.0 3.0
+"Griffith, The Chosen" Legendary 523.0 33.0 5.0 0.0
+"Pyroclastic Alchemist" Rare 1247.0 73.0 6.0 3.0
+"Forty Days" Common 3523.0 171.0 37.0 14.0
+"Papal Bull" Common 3520.0 201.0 33.0 7.0
+Anoint Common 3565.0 182.0 49.0 5.0
+Reformation Common 3505.0 194.0 41.0 10.0
+"Mindful Orc" Rare 1225.0 68.0 16.0 2.0
+"Devout Cleric" Epic 521.0 31.0 8.0 0.0
+Canonize Common 3557.0 174.0 33.0 6.0
+"Angelic Veteran" Rare 1250.0 61.0 9.0 1.0
+"Labyrinth Minotaur" Epic 478.0 30.0 2.0 2.0
+"Smoke Bomb" Common 3642.0 213.0 33.0 6.0
+"Identity Thief" Epic 496.0 18.0 3.0 2.0
+"Heads or Tails" Common 3510.0 177.0 48.0 8.0
+"Needle-Fang Chameleon" Rare 1222.0 72.0 20.0 1.0
+Sharpen Common 3525.0 194.0 33.0 14.0
+"Reborn Pharoah" Rare 1257.0 72.0 15.0 1.0
+Kidnapper Epic 468.0 19.0 6.0 2.0
+"Pandora, The Curious" Legendary 442.0 42.0 11.0 0.0
+"FIll the Coffers" Epic 500.0 31.0 3.0 2.0
+"Locusta, Solution Expert" Legendary 451.0 36.0 11.0 0.0
+"Back-Alley Vendor" Rare 1223.0 72.0 15.0 2.0
+"Merchant Prince" Rare 1287.0 68.0 22.0 5.0
+"Avatar of Deception" Legendary 438.0 31.0 10.0 3.0
+"Deception, Unshrouded" Legendary 487.0 48.0 6.0 1.0
+Spellstealer Common 3533.0 180.0 33.0 8.0
+"The Mastermind" Legendary 442.0 32.0 12.0 1.0
+"Scales of Justice" Rare 1227.0 73.0 14.0 1.0
+Nightmare Common 3493.0 198.0 38.0 6.0
+Reap Common 3597.0 193.0 34.0 10.0
+"Shadow Slash" Common 3565.0 188.0 35.0 8.0
+"Beyond the Grave" Rare 1212.0 67.0 12.0 2.0
+"Archimedes Mirror" Epic 491.0 24.0 11.0 1.0
+Arcana-Daemon Common 3584.0 183.0 45.0 4.0
+"Sign of Avarice" Epic 476.0 28.0 4.0 1.0
+Sucella Legendary 455.0 42.0 11.0 2.0
+"Eager Gryphon" Common 3557.0 184.0 40.0 8.0
+"Jungle Shepherd" Rare 1278.0 61.0 15.0 2.0
+"Myrto's Daughter" Rare 1273.0 75.0 6.0 3.0
+"Avatar of Magic" Legendary 456.0 35.0 10.0 1.0
+"Bucking Bronco" Epic 434.0 23.0 4.0 1.0
+"Black Rhino" Common 3526.0 135.0 36.0 9.0
+"Loam Naturalist" Rare 1236.0 72.0 9.0 1.0
+"Dimension Door" Common 3469.0 162.0 39.0 10.0
+Sobek Legendary 448.0 30.0 7.0 0.0
+"Magic, Unburdened" Legendary 492.0 40.0 13.0 0.0
+"Hippolyta, Divided" Legendary 489.0 41.0 9.0 1.0
+Merlin Legendary 476.0 34.0 8.0 1.0
+"Avatar of Nature" Legendary 454.0 44.0 7.0 0.0
+Aeneas Legendary 479.0 45.0 8.0 3.0
+"Circe, Vengeful Sorceress" Legendary 464.0 30.0 11.0 0.0
+"Nature, Overgrown" Legendary 473.0 27.0 11.0 0.0
+"Specialist Force" Epic 466.0 24.0 6.0 0.0
+Crystallax Rare 1274.0 67.0 12.0 0.0
+"O Fortuna" Rare 1275.0 62.0 9.0 3.0
+"Backstreet Bouncer" Common 3602.0 160.0 34.0 6.0
+"Jaguar Rider" Common 3435.0 198.0 43.0 8.0
+"Iron-tooth Goblin" Common 3536.0 200.0 40.0 11.0
+Jackal Common 3444.0 192.0 33.0 10.0
+     
+     
+"First Pheonix" Epic 240.0 0.0 0.0 0.0
+"Light's Bidding" Epic 59.0 0.0 0.0 0.0
+"Sleep Dart" Common 3489.0 187.0 40.0 4.0

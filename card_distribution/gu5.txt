@@ -1,0 +1,33 @@
+Name Rarity Normal Shadow Gold Diamond
+Swashbuckler Rare 1213 44 14 1
+"Spirit Animal" Common 3493 176 22 2
+"Trapdoor Assassin" Common 3389 173 37 6
+"Daemonic Offering" Epic 477 26 1 0
+"Phalanx Champion" Rare 1228 68 18 4
+"Glass Cannon" Legendary 454 32 10 0
+"Planetar Envoy" Rare 1182 69 16 1
+"Runaway Trebuchet" Common 3427 179 33 5
+"Aquatic Torturer" Common 3265 175 37 8
+Exoscout Rare 1209 60 13 3
+"Druidic Summons" Common 3561 193 36 4
+"Siren of the Grave" Rare 1203 58 19 3
+"Ares' Eruption" Rare 1198 68 12 2
+"Lightfoot Informant" Common 3543 179 35 6
+"Raving Fan" Rare 1233 65 15 1
+"Take Them All On" Rare 1225 76 12 1
+"Arms Trafficker" Common 3425 202 39 7
+"Lore & Order Inspector" Rare 1198 64 13 0
+"Shadow Scryer" Common 3463 168 37 8
+"Jason, Medea's Muse" Legendary 427 29 11 1
+"Fanatic of Khnum" Rare 1241 71 9 4
+"Underhand Thug" Common 3490 142 24 10
+"Mindful Orc" Rare 1197 65 16 2
+"Influential Incubus" Epic 421 30 6 1
+"Namebinder Zal'zie" Legendary 459 28 15 1
+"Fallen Aether" Common 3401 191 34 4
+"Deathsworn Raider" Common 3543 173 42 10
+"Mana Thief" Rare 1193 59 14 2
+"Cudgel of Atonement" Rare 1181 84 18 1
+"Golden Harpe" Epic 481 23 4 1
+"Proud Conscriptor" Epic 493 23 5 3
+"Angelic Veteran" Rare 1211 61 9 1

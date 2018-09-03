@@ -1,0 +1,33 @@
+Name Rarity Normal Shadow Gold Diamond
+"Pyramid Warden" Rare 1137 66 3 2
+"Magic Inks" Rare 1229 71 6 1
+"Runic Familiar" Common 3475 160 26 9
+"Hall of Mirrors" Epic 488 34 4 0
+"Catacomb Curator" Rare 1256 73 10 1
+"Empire's Footman" Rare 1219 62 18 3
+"Heka's Enchantress" Common 3393 166 30 3
+Sanctify Common 3461 176 51 7
+"Conniving Djinn" Common 3422 170 41 11
+"Ruins Explorer" Rare 1205 73 13 1
+"Pilgrim of the Cause" Rare 1222 54 9 1
+"Underbrush Boar" Rare 1250 40 11 2
+"Erratic Summons" Rare 1257 51 14 3
+"Carcass Vulture" Common 3335 186 31 7
+Reinforcements Common 3365 199 33 9
+"Soul Jar" Rare 1209 62 9 1
+"Rift Scholar" Common 3503 228 33 7
+Jackal Common 3372 187 33 10
+"Dread Pirate" Common 3458 200 37 9
+Sarcophagus Common 3414 177 28 7
+"Grass Roots" Epic 447 27 4 1
+"Unnatural Binding" Rare 1254 59 7 1
+"Agrodor Protector" Common 3518 168 35 7
+"Tomb Robber" Common 3492 183 26 9
+"Fusing Fleshspawn" Epic 471 24 4 1
+"Respected Jarl" Epic 465 23 12 0
+"Bonded Warrior" Common 3401 175 27 4
+"Ancient Curse" Common 3422 197 34 8
+"Prodigious Armourer" Common 3519 212 29 4
+"Devout Cleric" Epic 502 30 8 0
+"Gunpowder Plot" Rare 1169 61 16 2
+"Lara Grim, Spellthief" Legendary 457 43 10 0
