@@ -1,4 +1,4 @@
-# data_analysis_repo
+# Data Analysis Repositoy
 
 This repository holds various data science projects I have worked on. Here is are project descriptions and any accompanying documentation:
 
