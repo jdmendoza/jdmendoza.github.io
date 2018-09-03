@@ -5,5 +5,6 @@ This repository holds various data science projects I have worked on. Here is ar
 ---
 
 **Gods Unchained Project**
+
 Description: I used some webscraping and data visualization to investigate the effects of allowing players to buy legendary packs.
 Here is the link to the accompanying article: [Relative Value Of Cards In Gods Unchained] (https://medium.com/@jdannym93/relative-value-of-cards-in-gods-unchained-b875a1cee7e0)   
