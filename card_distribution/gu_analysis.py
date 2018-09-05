@@ -37,7 +37,8 @@ df12 = pd.read_table("gu12.txt", delim_whitespace=True)
 
 card_df = pd.concat([df1,df2,df3,df4,df5,df6,df7,df8,df9,df10,df11,df12])
 '''
-card_df = pd.read_table("/guAll.txt", delim_whitespace=True)
+
+card_df = pd.read_table("guAll.txt", delim_whitespace=True)
 
 legendaries = 0
 rares = 0
@@ -96,13 +97,18 @@ This makes it easy to share data.
 '''
 This section plots the data that is in the dictionaries
 '''
-'''
+
+#This shows copies of each epic exist
+plt.bar(range(len(epics_dict)), epics_dict.values(), align='center')
+plt.xticks(range(len(epics_dict)), list(epics_dict.keys()), rotation='vertical')
+plt.show()
+
 #This shows copies of each legendary exist
 plt.bar(range(len(leg_dict)), leg_dict.values(), align='center')
 plt.xticks(range(len(leg_dict)), list(leg_dict.keys()), rotation='vertical')
 plt.show()
-'''
-#This plots the distribute of the different rarities
+
+#This plots the distribution of the different rarities
 barlist = plt.bar(['Common', 'Rare', 'Epic', 'Legendary'], amount, align='center', alpha=0.5)
 barlist[0].set_color('grey')
 barlist[1].set_color('blue')

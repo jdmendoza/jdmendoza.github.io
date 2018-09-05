@@ -75,4 +75,4 @@ card_df = pd.DataFrame(data)
 col_names = ['Name', 'Rarity', 'Normal','Shadow','Gold','Diamond']
 card_df.columns = col_names
 
-card_df.to_csv(r'\guAll.txt', index=None, sep=' ', mode='a')
+card_df.to_csv(r'guAll.txt', index=None, sep=' ', mode='a')
