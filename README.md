@@ -29,7 +29,6 @@ Description: This project uses the [Kaggle Titanic Dataset](https://www.kaggle.c
 
 1. Coming soon: Webpage that uses the trained model to determine if a person (user entered) would have survived the Titanic.  
 
----
 ### Boston Housing Project
 [GitHub Link](https://github.com/jdmendoza/jdmendoza.github.io/tree/master/boston_housing)
 
