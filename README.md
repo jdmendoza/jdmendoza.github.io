@@ -5,7 +5,7 @@ This repository holds various data science projects I have worked on. Here are p
 ---
 ## **Data Exploration Projects**
 
-### Gods Unchained Project
+### Gods Unchained Card Data Analysis
 [GitHub Link](https://github.com/jdmendoza/jdmendoza.github.io/tree/master/card_distribution)
 
 Description: I used some webscraping and data visualization to investigate the effects of allowing players to buy legendary packs.
