@@ -11,7 +11,7 @@ This is my portfolio of data science projects. For each project there is a link 
 Description: I used webscraping and data visualization to investigate the effects of allowing players to directly buy packs containing specific card rarities.
 
 1. Game Website: [God's Unchained](https://godsunchained.com/?refcode=0x07453584C359A2b95fe115CC5eA72c56eEFE3Ee2)
-2. Medium article: [Relative Value Of Cards In Gods Unchained](https://medium.com/@jdannym93/relative-value-of-cards-in-gods-unchained-b875a1cee7e0)  
+2. My Medium article describing observations: [Relative Value Of Cards In Gods Unchained](https://medium.com/@jdannym93/relative-value-of-cards-in-gods-unchained-b875a1cee7e0)  
 3. Article explaning data pipeline and code currently in progress. 
 
 ---
