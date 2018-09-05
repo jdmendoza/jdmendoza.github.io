@@ -5,7 +5,7 @@ This repository holds various data science projects I have worked on. Here are p
 ---
 ## **Data Exploration Projects**
 
-### Gods Unchained Card Data Analysis
+### Gods Unchained Project
 [GitHub Link](https://github.com/jdmendoza/jdmendoza.github.io/tree/master/card_distribution)
 
 Description: I used some webscraping and data visualization to investigate the effects of allowing players to buy legendary packs.
@@ -14,6 +14,11 @@ Article explaning data pipeline and code currently in progress.
 
 ---
 ## **Machine Learning Projects**
+
+### Credit Card Fraud 
+[GitHub Link](https://github.com/jdmendoza/jdmendoza.github.io/tree/master/credit_card_fraud)
+
+Description: I downloaded the [Kaggle Credit Card Fraud Dataset](https://github.com/jdmendoza/jdmendoza.github.io/tree/master/credit_card_fraud) and trained a logistic regression model to detect instances of fraud in the data. 
 
 ### Titanic Dataset
 [GitHub Link](https://github.com/jdmendoza/jdmendoza.github.io/tree/master/titanic_dataset)
