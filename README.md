@@ -27,7 +27,8 @@ Description: This project used the  [Kaggle Credit Card Fraud Dataset](https://g
 
 Description: This project uses the [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic) . I trained a two different machine learning algorithms (logistic regression, decision tree) to predict if a person died or survived. 
 
-1. Coming soon: Webpage that uses the trained model to determine if a person (user entered) would have survived the Titanic.  
+1. Input a person's data and see if they would survive: [Webpage](http://dannymendoza.pythonanywhere.com/)
+* 09/05/18 - Issues with pythonanywhere importing sklearn, always predicts 0  
 
 ### Boston Housing Project
 [GitHub Link](https://github.com/jdmendoza/jdmendoza.github.io/tree/master/boston_housing)
