@@ -17,7 +17,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 '''
-Data Collected August 29, 2018 @ ~3pm
+Webscraped Data Collected August 29, 2018 @ ~3pm
 '''
 #Ask in the medium post how to more efficiently do this if I have access to the json
 
@@ -37,8 +37,8 @@ df12 = pd.read_table("gu12.txt", delim_whitespace=True)
 
 card_df = pd.concat([df1,df2,df3,df4,df5,df6,df7,df8,df9,df10,df11,df12])
 '''
-
-card_df = pd.read_table("guAll.txt", delim_whitespace=True)
+card_df = pd.read_table("guAll.txt", delim_whitespace=True, skip_blank_lines=True)
+print(card_df.head(10))
 
 legendaries = 0
 rares = 0
@@ -51,6 +51,8 @@ I know exactly what entry I'm looking at since it is the name of the card
 '''
 leg_dict = {}
 epics_dict = {}
+sum_shine_epics = 0
+sum_shine_leg = 0
 
 '''
 This "for loop" goes through each row of data
@@ -58,19 +60,21 @@ and extracts values to calculate the amount a specified card
 '''
 #Show how many of each card exist
 for index, row in card_df.iterrows():
-    if row['Rarity'] == 'Common':
-        commons = commons + row['Normal'] + row['Shadow'] + row['Gold'] + row['Diamond']
+    print(row['Rarity'])
 
-    elif row['Rarity'] == 'Rare':
-        rares = rares + row['Normal'] + row['Shadow'] + row['Gold'] + row['Diamond']
+    if row['Rarity'] == 'Common' or row['Rarity'] =='common':
+        commons += row['Normal'] + row['Shadow'] + row['Gold'] + row['Diamond']
 
-    elif row['Rarity'] == 'Epic':
+    elif row['Rarity'] == 'Rare' or row['Rarity'] =='rare':
+        rares += row['Normal'] + row['Shadow'] + row['Gold'] + row['Diamond']
+
+    elif row['Rarity'] == 'Epic' or row['Rarity'] =='epic':
         sum_shine_epics = row['Normal'] + row['Shadow'] + row['Gold'] + row['Diamond']
 
         epics_dict[row['Name']] = sum_shine_epics
         epics += sum_shine_epics
 
-    elif row['Rarity'] == 'Legendary':
+    elif row['Rarity'] == 'Legendary' or row['Rarity'] =='legendary':
         sum_shine_leg = row['Normal'] + row['Shadow'] + row['Gold'] + row['Diamond']
 
         leg_dict[row['Name']] = sum_shine_leg
@@ -84,6 +88,7 @@ amount = [commons, rares, epics, legendaries]
 Normalizing the array,
 this is equivalent to showing the percentage each group is of the whole
 '''
+print(amount)
 norm_amount = [commons*100/sum(amount), rares*100/sum(amount), epics*100/sum(amount), legendaries*100/sum(amount)]
 #print(norm_amount)
 #print('Leg',len(leg_dict), 'Epics', len(epics_dict))
@@ -101,11 +106,16 @@ This section plots the data that is in the dictionaries
 #This shows copies of each epic exist
 plt.bar(range(len(epics_dict)), epics_dict.values(), align='center')
 plt.xticks(range(len(epics_dict)), list(epics_dict.keys()), rotation='vertical')
+plt.ylabel('Amount of Cards Found')
+plt.title('Gods Unchained: Epic Distribution')
 plt.show()
 
 #This shows copies of each legendary exist
 plt.bar(range(len(leg_dict)), leg_dict.values(), align='center')
 plt.xticks(range(len(leg_dict)), list(leg_dict.keys()), rotation='vertical')
+plt.ylabel('Amount of Cards Found')
+plt.title('Gods Unchained: Legendary Distribution')
+
 plt.show()
 
 #This plots the distribution of the different rarities

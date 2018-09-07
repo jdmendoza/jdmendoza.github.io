@@ -61,7 +61,7 @@ for id in dist_id:
 		info_list.append(cardNames_df['rarity'][row])
 
 		for i in shine:
-			info_list.append(cardDist_df[str(id)][i])
+			info_list.append(int(cardDist_df[str(id)][i]))
 
 	data.append(info_list)
 	info_list = []
