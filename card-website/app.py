@@ -16,7 +16,7 @@ from gu_analysis import leg_dict, amount
 
 card = leg_dict
 
-app = dash.Dash('Gods Unchained Legendaries')
+app = dash.Dash('godsunchained')
 
 text_style = dict(color='#444', fontFamily='sans-serif', fontWeight=300)
 plotly_figure = dict(data=[dict(x=list(card.keys()), y=list(card.values()), type='bar')])
