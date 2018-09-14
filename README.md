@@ -14,6 +14,7 @@ Description: I performed  webscraping on a card game webpage and visualized the 
 2. Medium post explaining my observations: [Relative Value Of Cards In Gods Unchained](https://medium.com/@jdannym93/relative-value-of-cards-in-gods-unchained-b875a1cee7e0)  
 3. Medium post explaining my data pipeline and code walkthrough: [Web-scraping and Analyzing Gods Unchained Card Data](https://medium.com/@jdannym93/web-scraping-and-analyzing-gods-unchained-card-data-1087b9fcd734). 
 4. Community Requested Card Visualization: [Existing Legendaries & Epics](https://godsunchained.herokuapp.com/).
+
 ---
 ## **Machine Learning Projects**
 
