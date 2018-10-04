@@ -7,9 +7,9 @@ Contact Info:
 ---
 ## **Machine Learning Projects**
 
-### [Rap Lyrics Generator with LSTM](https://github.com/jdmendoza/jdmendoza.github.io/tree/master/rap_generator_lstm)
+### [Music Lyric Generator](https://github.com/jdmendoza/jdmendoza.github.io/tree/master/rap_generator_lstm)
 
-Description: I used an LSTM trained with webscraped lyrics by my favorite artist Travis Scott.
+Description: I trained an LSTM with webscraped lyrics.
 
 ### [Used iPhone Prediction Tool](https://github.com/jdmendoza/used_iphone_price_prediction)
 
