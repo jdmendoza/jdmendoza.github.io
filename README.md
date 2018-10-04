@@ -1,6 +1,6 @@
 This is my portfolio of data science projects. Each project has a link to the GitHub repo, a short project description and any additional collateral
 
-Contact Info:
+Contact Info:\
 [Github](https://github.com/jdmendoza)\
 [LinkedIn](https://www.linkedin.com/in/jose-danny-mendoza-91462986/)\
 [Twitter](https://twitter.com/Jdanny650)
@@ -23,7 +23,7 @@ Description: I webscraped data of recently sold iPhones on [Swappa](https://swap
 
 Description: I performed  webscraping on a card game webpage and visualized the data to investigate the effects of allowing players to directly buy card packs containing specific card rarities.
 
->1. Game Website: [God's Unchained](https://godsunchained.com/?refcode=0x07453584C359A2b95fe115CC5eA72c56eEFE3Ee2)
->2. Medium post explaining my observations: [Relative Value Of Cards In Gods Unchained](https://medium.com/@jdannym93/relative-value-of-cards-in-gods-unchained-b875a1cee7e0)  
->3. Medium post explaining my data pipeline and code walkthrough: [Web-scraping and Analyzing Gods Unchained Card Data](https://medium.com/@jdannym93/web-scraping-and-analyzing-gods-unchained-card-data-1087b9fcd734).
->4. My Card Visualization  Dashboard: [Existing Legendaries & Epics](https://godsunchained.herokuapp.com/).
+1. Game Website: [God's Unchained](https://godsunchained.com/?refcode=0x07453584C359A2b95fe115CC5eA72c56eEFE3Ee2)
+2. Medium post explaining my observations: [Relative Value Of Cards In Gods Unchained](https://medium.com/@jdannym93/relative-value-of-cards-in-gods-unchained-b875a1cee7e0)  
+3. Medium post explaining my data pipeline and code walkthrough: [Web-scraping and Analyzing Gods Unchained Card Data](https://medium.com/@jdannym93/web-scraping-and-analyzing-gods-unchained-card-data-1087b9fcd734).
+4. My Card Visualization  Dashboard: [Existing Legendaries & Epics](https://godsunchained.herokuapp.com/).
