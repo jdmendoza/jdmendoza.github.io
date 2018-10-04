@@ -7,7 +7,7 @@ Contact Info:
 ---
 ## **Machine Learning Projects**
 
-## Rap Lyrics Generator with LSTM
+### Rap Lyrics Generator with LSTM
 [Github Link](https://github.com/jdmendoza/jdmendoza.github.io/tree/master/rap_generator_lstm)
 
 Description: I used an LSTM trained with webscraped lyrics by my favorite artist Travis Scott.
@@ -16,7 +16,9 @@ Description: I used an LSTM trained with webscraped lyrics by my favorite artist
 [Github Link](https://github.com/jdmendoza/used_iphone_price_prediction)
 
 Description: I webscraped data of recently sold iPhones on [Swappa](https://swappa.com/buy/iphones). I used the data to train a linear regression model to predict a the value of an iPhone. I achieved an R2 of 0.97 and a standard error of $34.
+
 ---
+
 ## **Data Exploration Projects**
 
 ### Gods Unchained Project
