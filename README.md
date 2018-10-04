@@ -1,8 +1,8 @@
 This is my portfolio of data science projects. Each project has a link to the GitHub repo, a short project description and any additional collateral
 
-Contact Info:\
-[Github](https://github.com/jdmendoza)\
-[LinkedIn](https://www.linkedin.com/in/jose-danny-mendoza-91462986/)\
+Contact Info:
+[Github](https://github.com/jdmendoza) | 
+[LinkedIn](https://www.linkedin.com/in/jose-danny-mendoza-91462986/) |
 [Twitter](https://twitter.com/Jdanny650)
 
 
