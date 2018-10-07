@@ -1,16 +1,16 @@
 This is my portfolio of data science projects. Each project has a link to the GitHub repo, a short project description and any additional collateral
 
 Contact Info:
-[Github](https://github.com/jdmendoza) | 
+[Github](https://github.com/jdmendoza) |
 [LinkedIn](https://www.linkedin.com/in/jose-danny-mendoza-91462986/) |
 [Twitter](https://twitter.com/Jdanny650)
 
 
 ## **Machine Learning Projects**
 ---
-### [Music Lyric Generator](https://github.com/jdmendoza/jdmendoza.github.io/tree/master/rap_generator_lstm)
+### [Music Lyric Generator](https://github.com/jdmendoza/rap_lyrics_generator_lstm)
 
-Description: I trained an LSTM with webscraped lyrics.
+Description: I trained an LSTM with webscraped lyrics.  
 
 ### [Used iPhone Prediction Tool](https://github.com/jdmendoza/used_iphone_price_prediction)
 
