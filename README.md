@@ -10,7 +10,7 @@ Contact Info:
 ---
 ### [Music Lyric Generator](https://github.com/jdmendoza/rap_lyrics_generator_lstm)
 
-Description: I trained an LSTM with webscraped lyrics.  
+Description: I trained an LSTM with webscraped lyrics to generate lyrics in the style on an rap artist.  
 
 ### [Used iPhone Prediction Tool](https://github.com/jdmendoza/used_iphone_price_prediction)
 
