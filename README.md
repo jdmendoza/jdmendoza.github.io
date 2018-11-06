@@ -12,10 +12,13 @@ Contact Info:
 
 Description: I trained an LSTM with webscraped lyrics to generate lyrics in the style on an rap artist.  
 
-### [Tool For Predicting Used iPhone Value](https://github.com/jdmendoza/used_iphone_price_prediction) --In Progress
+### [Tool For Predicting Used iPhone Value](https://github.com/jdmendoza/used_iphone_price_prediction)
 
 Description: I webscraped data of recently sold iPhones on [Swappa](https://swappa.com/buy/iphones). I used the data to train a linear regression model to predict a the value of an iPhone. I achieved an R2 of 0.97 and a standard error of $34.
 
+### [Predicting Startup Success](https://github.com/jdmendoza/predicting_startup_success)
+
+Description: Using Crunchbase data from 2004 - 2014, my partner Nazim and I investigated the important features that may help predict whether a startup will succeed.
 
 ## **Data Exploration Projects**
 ---
