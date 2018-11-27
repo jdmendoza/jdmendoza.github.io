@@ -2,7 +2,7 @@ This is my portfolio of data science projects. Each project has a link to the Gi
 
 Contact Info:
 [Github](https://github.com/jdmendoza) |
-[LinkedIn](https://www.linkedin.com/in/jose-danny-mendoza-91462986/) |
+[LinkedIn](https://www.linkedin.com/in/jdmendoza1) |
 [Twitter](https://twitter.com/Jdanny650)
 
 
