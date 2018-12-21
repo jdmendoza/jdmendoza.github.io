@@ -27,6 +27,8 @@ Description: I trained an LSTM with webscraped lyrics to generate lyrics in the 
 Description: I webscraped data of recently sold iPhones on [Swappa](https://swappa.com/buy/iphones). I used the data to train a linear regression model to predict a the value of an iPhone. I achieved an R2 of 0.97 and a standard error of $34.
 > 1. Medium Post: [Automatically Price Your Used iPhone](https://medium.com/@jdannym93/automatically-price-your-used-iphone-2a83bb9eac30)
 
+1. Medium Post: [Automatically Price Your Used iPhone](https://medium.com/@jdannym93/automatically-price-your-used-iphone-2a83bb9eac30)
+
 ### [Predicting Startup Success](https://github.com/jdmendoza/predicting_startup_success)
 
 Description: Using Crunchbase data from 2004 - 2014, my partner Nazim and I investigated the important features that may help predict whether a startup will succeed.
