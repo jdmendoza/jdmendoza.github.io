@@ -17,7 +17,7 @@ Contact Info:
 
 ### [Startup Recommendation Engine](https://github.com/jdmendoza/startup_recommendation_engine)
 
-##### Description: Used K-Means clustering + NLP techniques on 20014-2014 CrunchBase data to recommend SF startups for job-seekers and investors. Rather than using a rigid approach like CrunchBase's search engine (filtering with rules), my engine uses an exploratory approach.
+#### Description: Used K-Means clustering + NLP techniques on 20014-2014 CrunchBase data to recommend SF startups for job-seekers and investors. Rather than using a rigid approach like CrunchBase's search engine (filtering with rules), my engine uses an exploratory approach.
 
 
 ### [Music Lyric Generator](https://github.com/jdmendoza/rap_lyrics_generator_lstm)
@@ -29,7 +29,7 @@ Contact Info:
 ##### Description: I webscraped data of recently sold iPhones on [Swappa](https://swappa.com/buy/iphones). I used the data to train a linear regression model to predict a the value of an iPhone. I achieved an R2 of 0.97 and a standard error of $34.
 
 
-1. Medium Post: [Automatically Price Your Used iPhone](https://medium.com/@jdannym93/automatically-price-your-used-iphone-2a83bb9eac30)
+###### 1. Medium Post: [Automatically Price Your Used iPhone](https://medium.com/@jdannym93/automatically-price-your-used-iphone-2a83bb9eac30)
 
 ### [Predicting Startup Success](https://github.com/jdmendoza/predicting_startup_success)
 
@@ -42,7 +42,7 @@ Contact Info:
 ##### Description: I performed  webscraping on a card game webpage and visualized the data to investigate the effects of allowing players to directly buy card packs containing specific card rarities.
 
 
-1. Game Website: [God's Unchained](https://godsunchained.com/?refcode=0x07453584C359A2b95fe115CC5eA72c56eEFE3Ee2)
-2. Medium post explaining my observations: [Relative Value Of Cards In Gods Unchained](https://medium.com/@jdannym93/relative-value-of-cards-in-gods-unchained-b875a1cee7e0)  
-3. Medium post explaining my data pipeline and code walkthrough: [Web-scraping and Analyzing Gods Unchained Card Data](https://medium.com/@jdannym93/web-scraping-and-analyzing-gods-unchained-card-data-1087b9fcd734).
-4. My Card Visualization  Dashboard: [Existing Legendaries & Epics](https://godsunchained.herokuapp.com/).
+###### 1. Game Website: [God's Unchained](https://godsunchained.com/?refcode=0x07453584C359A2b95fe115CC5eA72c56eEFE3Ee2)
+###### 2. Medium post explaining my observations: [Relative Value Of Cards In Gods Unchained](https://medium.com/@jdannym93/relative-value-of-cards-in-gods-unchained-b875a1cee7e0)  
+###### 3. Medium post explaining my data pipeline and code walkthrough: [Web-scraping and Analyzing Gods Unchained Card Data](https://medium.com/@jdannym93/web-scraping-and-analyzing-gods-unchained-card-data-1087b9fcd734).
+###### 4. My Card Visualization  Dashboard: [Existing Legendaries & Epics](https://godsunchained.herokuapp.com/).
