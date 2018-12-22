@@ -14,6 +14,7 @@
 
 1. Presentation: [Wikipedia Page-View Forecasting](https://www.dropbox.com/s/7yhrfevqn9yyoj4/wiki_forecasting.pptx?dl=0)
 
+
 ### [Startup Recommendation Engine](https://github.com/jdmendoza/startup_recommendation_engine)
 
 ##### Description: Used K-Means clustering + NLP techniques on 20014-2014 CrunchBase data to recommend SF startups for job-seekers and investors. Rather than using a rigid approach like CrunchBase's search engine (filtering with rules), my engine uses an exploratory approach.
@@ -23,15 +24,18 @@
 
 ##### Description: I trained an LSTM with webscraped lyrics to generate lyrics in the style on an rap artist.  
 
+
 ### [Pricing Tool for Used-iPhone](https://github.com/jdmendoza/used_iphone_price_prediction)
 
 ##### Description: I webscraped data of recently sold iPhones on [Swappa](https://swappa.com/buy/iphones). I used the data to train a linear regression model to predict a the value of an iPhone. I achieved an R2 of 0.97 and a standard error of $34.
 
 1. Medium Post: [Automatically Price Your Used iPhone](https://medium.com/@jdannym93/automatically-price-your-used-iphone-2a83bb9eac30)
 
+
 ### [Predicting Startup Success](https://github.com/jdmendoza/predicting_startup_success)
 
 ##### Description: Using Crunchbase data from 2004 - 2014, my partner Nazim and I investigated the important features that may help predict whether a startup will succeed.
+
 
 ## **Data Exploration Projects**
 ---
