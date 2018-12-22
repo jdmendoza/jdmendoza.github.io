@@ -1,6 +1,6 @@
-This is my portfolio of data science projects. Each project has a link to the GitHub repo, a short project description and any additional collateral
+##### This is my portfolio of data science projects. Each project has a link to the GitHub repo, a short project description and any additional collateral
 
-Contact Info:
+##### Contact Info:
 [Github](https://github.com/jdmendoza) |
 [LinkedIn](https://www.linkedin.com/in/jdmendoza1) |
 [Twitter](https://twitter.com/Jdanny650)
