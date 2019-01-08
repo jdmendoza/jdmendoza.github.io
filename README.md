@@ -46,4 +46,3 @@
 1. Game Website: [God's Unchained](https://godsunchained.com/?refcode=0x07453584C359A2b95fe115CC5eA72c56eEFE3Ee2)
 2. Medium post explaining my observations: [Relative Value Of Cards In Gods Unchained](https://medium.com/@jdannym93/relative-value-of-cards-in-gods-unchained-b875a1cee7e0)  
 3. Medium post explaining my data pipeline and code walkthrough: [Web-scraping and Analyzing Gods Unchained Card Data](https://medium.com/@jdannym93/web-scraping-and-analyzing-gods-unchained-card-data-1087b9fcd734).
-4. My Card Visualization  Dashboard: [Existing Legendaries & Epics](https://godsunchained.herokuapp.com/).
