@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Study Guide
+title: Study Path
 ---
 Below are the books/courses I have completed to learn about machine learning:
 
