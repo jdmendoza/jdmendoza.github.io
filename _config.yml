@@ -1,2 +1,11 @@
-theme: jekyll-theme-tactile
-title: Data Science Portfolio by Danny Mendoza
+#Basic Info
+title: Data Science & Machine Learning Blog
+author: J. Danny Mendoza
+email: jdannym93@gmail.com
+description: An Awesome Blog
+twitter_username: Jdanny650
+github_username: jdmendoza
+
+#Build Settings
+markdown: kramdown
+theme: minima
