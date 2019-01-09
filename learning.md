@@ -2,18 +2,19 @@
 layout: page
 title: Study Path
 ---
-Below are the books/courses I have completed to learn about machine learning:
+Below is my path to learn about machine learning/reinforcement learning.
+If you have a resource you really recommend, shoot me an email/tweet/LinkedIn message!
 
 ## Completed
-- Machine Learning - Andrew Ng
+- Machine Learning on Coursera - Andrew Ng
 - Deep Learning With Python - Francois Chollet
 - An Introduction to Statistical Learning - Tibshirani, Hastie, et al
 
-## Reading
+## Current
 - Spinning Up - OpenAI
 - Applied Predictive Modeling - Kuhn, Johnson
 
-## Future Reading
+## Future
 - Reinforcement Learning: An Introduction - Barto, Sutton
 - Convex Optimization - Boyd, Vandenberghe
 - Elements of Statistical Learning - Tibshirani, Hastie, et al
