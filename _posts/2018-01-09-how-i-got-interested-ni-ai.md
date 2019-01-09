@@ -7,7 +7,7 @@ title: How I Got Interested In AI
 
 As the eldest of five boys, I have seen the developmental process and learning that takes place during infancy and childhood many times. The speed of this process has always fascinated me. It takes about three years before a child can understand the idea of order/sorting, which starts with sorting objects by shape and color. A year later they can draw circles and squares. Only a year after that, they begin counting ten objects or more. Check out the childhood milestones table from WebMD:
 
-![Childhood Milestones]({{ "/assets/childhood_milestones.png" | absolute_url }}){:height="300px"}
+![Childhood Milestones]({{ "/assets/childhood_milestones.png" | absolute_url }}){:height="450px"}
 
 
 Source: https://www.webmd.com/parenting/baby/features/is-your-baby-on-track#1
