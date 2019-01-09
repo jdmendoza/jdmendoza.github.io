@@ -1,3 +1,8 @@
+---
+layout: page
+title: Project Directory
+---
+
 This is my portfolio of data science and machine learning projects. Each project has a link to the GitHub repo, a short project description and any additional collateral
 
 ### Contact Info:
