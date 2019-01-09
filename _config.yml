@@ -2,11 +2,12 @@
 title: J. Danny Mendoza blog
 author: J. Danny Mendoza
 email: jdannym93@gmail.com
-description: Knowledge Without Action is Useless, So I Build Stuff
+description: Knowledge Without Action is Useless,   So I Build Stuff
 twitter_username: Jdanny650
 github_username: jdmendoza
 linkedin_username: jdmendoza1
-
+disqus:
+  shortname: jdmendoza-github-io
 
 
 #Build Settings
