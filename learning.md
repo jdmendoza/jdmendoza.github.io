@@ -1,4 +1,4 @@
-#Study Guide
+# Study Guide
 
 Below are the books/courses I have completed to learn about machine learning:
 
