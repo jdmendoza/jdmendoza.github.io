@@ -1,8 +1,8 @@
 #Basic Info
-title: Data Science & Machine Learning Blog
+title: J. Danny Mendoza blog
 author: J. Danny Mendoza
 email: jdannym93@gmail.com
-description: An Awesome Blog
+description: Knowledge Without Action is Useless, So I Build Stuff
 twitter_username: Jdanny650
 github_username: jdmendoza
 linkedin_username: jdmendoza1
@@ -12,3 +12,7 @@ linkedin_username: jdmendoza1
 #Build Settings
 markdown: kramdown
 theme: minima
+
+header_pages:
+  - about.md
+  - learning.md
