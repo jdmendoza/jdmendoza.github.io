@@ -1,5 +1,7 @@
-# Study Guide
-
+---
+layout: page
+title: Study Guide
+---
 Below are the books/courses I have completed to learn about machine learning:
 
 ## Completed
