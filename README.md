@@ -1,4 +1,4 @@
-###This is my portfolio of data science and machine learning projects. Each project has a link to the GitHub repo, a short project description and any additional collateral
+### This is my portfolio of data science and machine learning projects. Each project has a link to the GitHub repo, a short project description and any additional collateral
 
 ## Contact Info:
 [Github](https://github.com/jdmendoza) |
