@@ -51,5 +51,7 @@ As a data scientist trying to become an expert in the field, I am reviewing a bu
 I highly recommend you check out Ali’s three videos and his Youtube channel, see below.
 
 Active Recall: [https://youtu.be/ukLnPbIffxE](https://youtu.be/ukLnPbIffxE)
+
 Spaced Repetition: [https://youtu.be/Z-zNHHpXoMM](https://youtu.be/Z-zNHHpXoMM)
+
 First Time Learning: [https://youtu.be/fBXnxlLR0PY](https://youtu.be/fBXnxlLR0PY)
