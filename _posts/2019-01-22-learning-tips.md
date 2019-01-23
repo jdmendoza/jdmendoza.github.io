@@ -3,7 +3,7 @@ layout: post
 title: Summary of Effective Learning Techniques
 ---
 
-![Learning for Life]({{ "/assets/learning-for-life.png" | absolute_url }}){:height="150px"}
+![Learning for Life]({{ "/assets/learning-for-life.png" | absolute_url }}){:height="300px"}
 
 ## Intro
 This weekend, I watched a few videos on learning techniques by an awesome Youtuber named [Ali Abdaal](https://www.youtube.com/user/Sepharoth64). It was a series of three videos which cover effective study techniques that are backed by evidence. I began writing a short summary to send to my brothers, but figured that this might benefit other people, so I’ll turn it into a post.
