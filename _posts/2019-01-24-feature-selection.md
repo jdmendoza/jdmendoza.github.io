@@ -33,6 +33,7 @@ During model selection we need metrics to compare modes. Below are commonly used
 Just like most computer science problems, the ideal approach to feature selection is to use brute force. Given enough computing power, a brute force approach can solve many problems. Assuming p predictors, there are 2^p combinations of features that need to be tested. If a model has a small number of features and samples, bruce force can be used.
 
 ***Algorithm 1: Optimal Subset Selection***
+
 	1. Let Mo denote the null model, which contains no predictors. This model simply predicts the sample mean for each observation.
 
 	2. For k=1,2...p:
@@ -49,6 +50,7 @@ Most of the time, we cannot bruce force search the entire space of feature combi
 In forward subset selection, we apply a greedy optimization approach by selecting the best model at each iteration. This allows us to search a smaller subset of the feature space. In total, there are 1 + p(p+2)/2 combinations of features that need to be trained and tested.
 
 ***Algorithm 2: Forward Stepwise Selection***
+
 	1. Let Mo denote the null model, which contains no predictors.
 
 	2. For k=0,...,p-1:
@@ -63,6 +65,7 @@ In forward subset selection, we apply a greedy optimization approach by selectin
 Backward subset selection, is the inverse of FSS algorithm. We begin with a full model and incrementally remove features. The number of feature combinations is 1 + p(p+2)/2, just like FSS.
 
 ***Algorithm 3: Backward Stepwise Selection***
+
 	1. Let Mo denote the full model, which contains all p predictors.
 
 	2. For k=p,p-1,...1:
@@ -77,6 +80,7 @@ Backward subset selection, is the inverse of FSS algorithm. We begin with a full
 This algorithm is based on the heuristic that features that are highly correlated measure the same underlying information. The data scientist chooses an absolute correlation threshold, the correlation matrix is generated and highly correlated pairwise features are tested to be thrown out.
 
 ***Algorithm 4: Heuristic with Correlation***
+
 	1. Calculate the correlation matrix of the features
 
 	2. Determine the two predictors associated with the largest absolute pairwise correlation (call them predictors A and B).
