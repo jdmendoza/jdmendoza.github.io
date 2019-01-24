@@ -11,7 +11,8 @@ If you have a resource you really recommend, shoot me an email/tweet/LinkedIn me
 - An Introduction to Statistical Learning - Tibshirani, Hastie, et al
 
 ## Current
-- Spinning Up - OpenAI
+- Statistical Inference - Casella, Berger
+- [Harvard's Data Science Course](http://cs109.github.io/2015/)
 - Applied Predictive Modeling - Kuhn, Johnson
 
 ## Future
