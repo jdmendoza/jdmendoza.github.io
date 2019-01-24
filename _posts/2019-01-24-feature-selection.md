@@ -1,5 +1,8 @@
-# Feature Selection Blog Post
 
+---
+layout: post
+title: Feature Selection Techniques
+---
 
 Feature selection is a critical step in applying machine learning to data problems. In feature selection, the data scientist determines the subset of data that contains the most predictive signal. Feature selection is crucial for various reasons, which include:
 - **Numerical Stability**: Some models such as linear regression are not stable when features are collinear.
