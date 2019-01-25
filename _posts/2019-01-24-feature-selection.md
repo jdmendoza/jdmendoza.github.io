@@ -25,24 +25,24 @@ During model selection we need metrics to compare modes. Below are commonly used
 
 - [**Cross-validated prediction error**](https://en.wikipedia.org/wiki/Cross-validation_(statistics)) - This is a method to get an estimation of the out-of-sample performance of a model. This is used in conjunction with the metrics below.
 - [**Residual Sum of Squares (RSS)**](https://en.wikipedia.org/wiki/Residual_sum_of_squares) - This metric is calculated by squaring and adding errors in predictions.
-- [**Akaike Information Criterion (AIC) and Cp**](https://en.wikipedia.org/wiki/Akaike_information_criterion) - A penalized RSS metric that takes into account error variance and number of predictors.
+- [**Akaike Information Criterion (AIC) and C<sub>p</sub>**](https://en.wikipedia.org/wiki/Akaike_information_criterion) - A penalized RSS metric that takes into account error variance and number of predictors.
 - [**Bayesian Information Criterion (BIC)**](https://en.wikipedia.org/wiki/Bayesian_information_criterion) - Similar to AIC, but places a heavier penalty on models with more features.
-- [**R-squared (R<sup>2</sup>)**](https://en.wikipedia.org/wiki/Coefficient_of_determination) - This is the explained variance by a model. It ranges from zero to one. Where one is a model that explains all the variance in a data set.
-- [**Adjusted R<sup>2</sup>**](https://en.wikipedia.org/wiki/Coefficient_of_determination) - This uses the R-squared metric, but penalized models with a larger number of features.
+- [**R<sup>2</sup>**](https://en.wikipedia.org/wiki/Coefficient_of_determination) - This is the explained variance by a model. It ranges from zero to one. Where one is a model that explains all the variance in a data set.
+- [**Adjusted R<sup>2</sup>**](https://en.wikipedia.org/wiki/Coefficient_of_determination) - This uses the R<sup>2</sup> metric, but penalized models with a larger number of features.
 
 ## Optimal Subset Selection
 
-Just like most computer science problems, the ideal approach to feature selection is to use brute force. Given enough computing power, a brute force approach can solve many problems. Assuming p predictors, there are 2^p combinations of features that need to be tested. If a model has a small number of features and samples, bruce force can be used.
+Just like most computer science problems, the ideal approach to feature selection is to use brute force. Given enough computing power, a brute force approach can solve many problems. Assuming p predictors, there are 2<sup>p</sup> combinations of features that need to be tested. If a model has a small number of features and samples, bruce force can be used.
 
 ***Algorithm 1: Optimal Subset Selection***
 
 	1. Let Mo denote the null model, which contains no predictors. This model simply predicts the sample mean for each observation.
 
 	2. For k=1,2...p:
-		a) Fit all p choose k models that contain exactly k predictors.
-		b) Pick the best among these p choose k models, and call it Mk. Here the best is defined as having the smallest RSS, or equivalently largest R^2.
+		a) Fit all (p choose k) models that contain exactly k predictors.
+		b) Pick the best among these (p choose k) models, and call it Mk. Here the best is defined as having the smallest RSS, or equivalently largest R<sup>2</sup>.
 
-	3. Select a single best model from among the Mo...Mp using cross-validated prediction error, Cp (AIC), BIC, or adjusted R^2
+	3. Select a single best model from among the Mo...Mp using cross-validated prediction error, Cp (AIC), BIC, or adjusted R<sup>2</sup>
 
 	Source 1
 
@@ -56,25 +56,26 @@ In forward subset selection, we apply a greedy optimization approach by selectin
 	1. Let Mo denote the null model, which contains no predictors.
 
 	2. For k=0,...,p-1:
-		a) Consider all p-k models that augment the predicts in Mk with one additional predictor.
-		b) Choose the best among these p-k models, and call it Mk+1. Here best is defined as having smallest RSS or highest R^2.
+		a) Consider all p-k models that augment the predicts in M<sub>k<sub> with one additional predictor.
+		b) Choose the best among these p-k models, and call it M<sub>k+1</sub>. Here best is defined as having smallest RSS or highest R<sup>2</sup>.
 
-	3. Select a single best model from among Mo,...,Mp using cross-validated prediction error, Cp (AIC), BIC, or adjusted R^2
+	3. Select a single best model from among M<sub>o</sub>,...,M<sub>p</sub> using cross-validated prediction error, C<sub>p</sub> (AIC), BIC, or adjusted R<sup>2</sup>
 
 	Source 1
 
 ## Backward Stepwise Selection
-Backward subset selection, is the inverse of FSS algorithm. We begin with a full model and incrementally remove features. The number of feature combinations is 1 + p(p+2)/2, just like FSS.
+Backward subset selection, is the inverse of FSS algorithm. We begin with a full model and incrementally remove features.
+The number of feature combinations is 1 + p(p+2)/2, just like FSS.
 
 ***Algorithm 3: Backward Stepwise Selection***
 
 	1. Let Mo denote the full model, which contains all p predictors.
 
 	2. For k=p,p-1,...1:
-		a) Consider all k models that augment the contains all but one of the predictors in Mk, for a total of k-1 predictors.
-		b) Choose the best among these k models, and call it Mk+1. Here best is defined as having smallest RSS or highest R^2.
+		a) Consider all k models that augment the contains all but one of the predictors in M<sub>k<sub>, for a total of k-1 predictors.
+		b) Choose the best among these k models, and call it M<sub>k+1</sub>. Here best is defined as having smallest RSS or highest R<sup>2</sup>.
 
-	3. Select a single best model from among Mo,...,Mp using cross-validated prediction error, Cp (AIC), BIC, or adjusted R^2
+	3. Select a single best model from among M<sub>o</sub>,...,M<sub>p</sub> using cross-validated prediction error, C<sub>p</sub> (AIC), BIC, or adjusted R<sup>2</sup>
 
 	Source 1
 
@@ -98,9 +99,9 @@ This algorithm is based on the heuristic that features that are highly correlate
 ## Lasso Regression
 If we take the traditional linear regression algorithm and apply an L1 norm to the coefficient vector, we get lasso regression. In other words, an extra term is added to the linear regression cost function that penalizes the model if coefficients get to big. This has the effect of applying pressure on the coefficients, so they stay near the origin. Lasso regression will reduce the weight of a feature to zero if it has no predictive signal, effectively selecting the important features.
 
-![L1 Norm]({{ "/assets/l1_norm.png" | absolute_url }}){:height="150px"}
+![L1 Norm]({{ "/assets/l1_norm.png" | absolute_url }}){:height="250px"}
 
-The L1 norm is applied with a tuning variable to control the flexibility of the model. This tuning parameter requires experimentation by the data scientist to find the optimal value to maximize cross-validated prediction error, Cp (AIC), BIC, or adjusted R^2.
+The L1 norm is applied with a tuning variable to control the flexibility of the model. This tuning parameter requires experimentation by the data scientist to find the optimal value to maximize cross-validated prediction error, C<sub>p</sub> (AIC), BIC, or adjusted R<sup>2</sup>.
 
 
 ## Conclusion
