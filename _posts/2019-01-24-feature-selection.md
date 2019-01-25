@@ -27,7 +27,7 @@ During model selection we need metrics to compare modes. Below are commonly used
 - [**Residual Sum of Squares (RSS)**](https://en.wikipedia.org/wiki/Residual_sum_of_squares) - This metric is calculated by squaring and adding errors in predictions.
 - [**Akaike Information Criterion (AIC) and C<sub>p</sub>**](https://en.wikipedia.org/wiki/Akaike_information_criterion) - A penalized RSS metric that takes into account error variance and number of predictors.
 - [**Bayesian Information Criterion (BIC)**](https://en.wikipedia.org/wiki/Bayesian_information_criterion) - Similar to AIC, but places a heavier penalty on models with more features.
-- [**R<sup>2</sup>**](https://en.wikipedia.org/wiki/Coefficient_of_determination) - This is the explained variance by a model. It ranges from zero to one. Where one is a model that explains all the variance in a data set.
+- [**R-squared (R<sup>2</sup>)**](https://en.wikipedia.org/wiki/Coefficient_of_determination) - This is the explained variance by a model. It ranges from zero to one. Where one is a model that explains all the variance in a data set.
 - [**Adjusted R<sup>2</sup>**](https://en.wikipedia.org/wiki/Coefficient_of_determination) - This uses the R<sup>2</sup> metric, but penalized models with a larger number of features.
 
 ## Optimal Subset Selection
@@ -40,9 +40,9 @@ Just like most computer science problems, the ideal approach to feature selectio
 
 	2. For k=1,2...p:
 		a) Fit all (p choose k) models that contain exactly k predictors.
-		b) Pick the best among these (p choose k) models, and call it Mk. Here the best is defined as having the smallest RSS, or equivalently largest R<sup>2</sup>.
+		b) Pick the best among these (p choose k) models, and call it Mk. Here the best is defined as having the smallest RSS, or equivalently largest R-squared.
 
-	3. Select a single best model from among the Mo...Mp using cross-validated prediction error, Cp (AIC), BIC, or adjusted R<sup>2</sup>
+	3. Select a single best model from among the Mo...Mp using cross-validated prediction error, Cp (AIC), BIC, or adjusted R-squared.
 
 	Source 1
 
@@ -56,10 +56,10 @@ In forward subset selection, we apply a greedy optimization approach by selectin
 	1. Let Mo denote the null model, which contains no predictors.
 
 	2. For k=0,...,p-1:
-		a) Consider all p-k models that augment the predicts in M<sub>k<sub> with one additional predictor.
-		b) Choose the best among these p-k models, and call it M<sub>k+1</sub>. Here best is defined as having smallest RSS or highest R<sup>2</sup>.
+		a) Consider all p-k models that augment the predicts in Mk with one additional predictor.
+		b) Choose the best among these p-k models, and call it Mk+1. Here best is defined as having smallest RSS or highest R-squared.
 
-	3. Select a single best model from among M<sub>o</sub>,...,M<sub>p</sub> using cross-validated prediction error, C<sub>p</sub> (AIC), BIC, or adjusted R<sup>2</sup>
+	3. Select a single best model from among Mo,...,Mp using cross-validated prediction error, Cp (AIC), BIC, or adjusted R-squared
 
 	Source 1
 
@@ -72,10 +72,10 @@ The number of feature combinations is 1 + p(p+2)/2, just like FSS.
 	1. Let Mo denote the full model, which contains all p predictors.
 
 	2. For k=p,p-1,...1:
-		a) Consider all k models that augment the contains all but one of the predictors in M<sub>k<sub>, for a total of k-1 predictors.
-		b) Choose the best among these k models, and call it M<sub>k+1</sub>. Here best is defined as having smallest RSS or highest R<sup>2</sup>.
+		a) Consider all k models that augment the contains all but one of the predictors in Mk, for a total of k-1 predictors.
+		b) Choose the best among these k models, and call it Mk+1. Here best is defined as having smallest RSS or highest R-squared.
 
-	3. Select a single best model from among M<sub>o</sub>,...,M<sub>p</sub> using cross-validated prediction error, C<sub>p</sub> (AIC), BIC, or adjusted R<sup>2</sup>
+	3. Select a single best model from among Mo,...,Mp using cross-validated prediction error, Cp (AIC), BIC, or adjusted R-squared
 
 	Source 1
 
