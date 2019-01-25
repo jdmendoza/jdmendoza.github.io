@@ -27,8 +27,8 @@ During model selection we need metrics to compare modes. Below are commonly used
 - [**Residual Sum of Squares (RSS)**](https://en.wikipedia.org/wiki/Residual_sum_of_squares) - This metric is calculated by squaring and adding errors in predictions.
 - [**Akaike Information Criterion (AIC) and Cp**](https://en.wikipedia.org/wiki/Akaike_information_criterion) - A penalized RSS metric that takes into account error variance and number of predictors.
 - [**Bayesian Information Criterion (BIC)**](https://en.wikipedia.org/wiki/Bayesian_information_criterion) - Similar to AIC, but places a heavier penalty on models with more features.
-- [**R-squared (R^2)**](https://en.wikipedia.org/wiki/Coefficient_of_determination) - This is the explained variance by a model. It ranges from zero to one. Where one is a model that explains all the variance in a data set.
-- [**Adjusted R^2**](https://en.wikipedia.org/wiki/Coefficient_of_determination) - This uses the R-squared metric, but penalized models with a larger number of features.
+- [**R-squared (R<sup>2</sup>)**](https://en.wikipedia.org/wiki/Coefficient_of_determination) - This is the explained variance by a model. It ranges from zero to one. Where one is a model that explains all the variance in a data set.
+- [**Adjusted R<sup>2</sup>**](https://en.wikipedia.org/wiki/Coefficient_of_determination) - This uses the R-squared metric, but penalized models with a larger number of features.
 
 ## Optimal Subset Selection
 
