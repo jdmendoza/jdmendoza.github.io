@@ -47,8 +47,13 @@ Description: I webscraped data of recently sold iPhones on [Swappa](https://swap
 Description: Using Crunchbase data from 2004 - 2014, my partner Nazim and I investigated the important features that may help predict whether a startup will succeed.
 
 
-# **Data Exploration Projects**
+# **Data Analysis Projects**
 ---
+## [DSBlogs](https://github.com/jdmendoza/jdmendoza.github.io/tree/master/card_distribution)
+
+Description: Created a website that scrapes the five  most recent blogs from my favorite data science bloggers.
+
+1. Website: [dsblogs](https://dsblogs.herokuapp.com/)
 
 ## [Gods Unchained Project](https://github.com/jdmendoza/jdmendoza.github.io/tree/master/card_distribution)
 
