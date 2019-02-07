@@ -2,6 +2,7 @@
 layout: page
 title: Study Path
 ---
+
 Below is my path to learn about machine learning/reinforcement learning.
 If you have a resource you really recommend, shoot me an email/tweet/LinkedIn message!
 

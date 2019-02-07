@@ -32,7 +32,7 @@ During model selection we need metrics to compare modes. Below are commonly used
 
 ## Optimal Subset Selection
 
-Just like most computer science problems, the ideal approach to feature selection is to use brute force. Given enough computing power, a brute force approach can solve many problems. Assuming p predictors, there are 2<sup>p</sup> combinations of features that need to be tested. If a model has a small number of features and samples, bruce force can be used.
+Just like most computer science problems, the ideal approach to feature selection is to use brute force. Given enough computing power, a brute force approach can solve many problems. Assuming p predictors, there are 2<sup>p</sup> combinations of features that need to be tested. If a model has a small number of features and samples, brute force can be used.
 
 ***Algorithm 1: Optimal Subset Selection***
 
@@ -46,7 +46,7 @@ Just like most computer science problems, the ideal approach to feature selectio
 
 	Source 1
 
-Most of the time, we cannot bruce force search the entire space of feature combinations, so we have to make a trade off in the algorithms. This is where forward and back subset selection come in.
+Most of the time, we cannot brute force search the entire space of feature combinations, so we have to make a trade off in the algorithms. This is where forward and back subset selection come in.
 
 ## Forward Stepwise Selection
 In forward subset selection, we apply a greedy optimization approach by selecting the best model at each iteration. This allows us to search a smaller subset of the feature space. In total, there are 1 + p(p+2)/2 combinations of features that need to be trained and tested.
