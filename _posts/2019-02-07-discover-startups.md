@@ -48,6 +48,6 @@ Once the startups were clustered, I used Plotly along with Dash to create a webs
 
 ## Demo
 Dashboard in Action
-[Dashboard](https://gph.is/2RMLxpU)
+![Dashboard](https://gph.is/2RMLxpU)
 ## Future Updates
 I’m working on deploying the application to the web. Meanwhile, feel free to clone my git repo and run it locally.
