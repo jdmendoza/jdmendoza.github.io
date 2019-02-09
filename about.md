@@ -13,7 +13,7 @@ Feel free to tweet me, email me, LinkedIn message.
 - 2018: *Data Science Fellow* at Metis
 - 2015-2018: *Applications Engineer* at ON Semiconductor
 - 2015-2016: *Santa Clara University MSc* Electrical Engineering emphasis on Control Theory
-- Summer 2014: *Model Scale Autonomous Vehicle* at SCU under [Dr. Healy](https://www.scu.edu/engineering/faculty/healy-tim/)
+- Summer 2014: *[Model Scale Autonomous Vehicle](https://www.scu.edu/engineering/stories/engineering-news-fall-2014/more-power-to-these-summer-scholars.html)* at SCU under [Dr. Healy](https://www.scu.edu/engineering/faculty/healy-tim/)
 - 2011-2015: *Santa Clara University BSc* Electrical Engineering emphasis on Control Theory
 - Summer 2011, 2012, 2013: *Process Technician* at [Luxience](http://www.luxience.com/)
 
