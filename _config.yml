@@ -16,5 +16,4 @@ theme: minima
 
 header_pages:
   - project_directory.md
-  - learning.md
   - about.md
