@@ -11,17 +11,12 @@ I hope you find something interesting in here. Feel free to tweet me, email me, 
 [Download   Resume](https://www.dropbox.com/s/7oz68yewusvgtch/jdmendoza_resume.pdf?dl=0)
 
 **Timeline**
-2018: *Data Science Fellow* at Metis
-
-2015-2018: *Applications Engineer* at ON Semiconductor
-
-2015-2016: *Santa Clara University MSc* Electrical Engineering emphasis on Control Theory
-
-2014: *Model Scale Autonomous Vehicle* at SCU under [Dr. Healy](https://www.scu.edu/engineering/faculty/healy-tim/)
-
-2011-2015: *Santa Clara University BSc* Electrical Engineering emphasis on Control Theory
-
-Summer 2011, 2012, 2013: *Process Technician* at [Luxience](http://www.luxience.com/)
+- 2018: *Data Science Fellow* at Metis
+- 2015-2018: *Applications Engineer* at ON Semiconductor
+- 2015-2016: *Santa Clara University MSc* Electrical Engineering emphasis on Control Theory
+- Summer 2014: *Model Scale Autonomous Vehicle* at SCU under [Dr. Healy](https://www.scu.edu/engineering/faculty/healy-tim/)
+- 2011-2015: *Santa Clara University BSc* Electrical Engineering emphasis on Control Theory
+- Summer 2011, 2012, 2013: *Process Technician* at [Luxience](http://www.luxience.com/)
 
 
 ![Mexico City Pyramids]({{ "/assets/pyramid_of_the_sun.png" | absolute_url }}){:height="200px"}
