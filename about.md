@@ -25,4 +25,5 @@ Summer 2011, 2012, 2013: *Process Technician* at [Luxience](http://www.luxience.
 
 
 ![Mexico City Pyramids]({{ "/assets/pyramid_of_the_sun.png" | absolute_url }}){:height="200px"}
+
 *Me on the Pyramid of the Moon with the Pyramid of the Sun in the background in Teotihuacan, Mexico*
