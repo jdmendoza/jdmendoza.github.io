@@ -15,7 +15,7 @@ Before any algorithm could be trained, a dataset was required. I’ve had great 
 
 ![Dataset]({{ "/assets/swappa_data.png" | absolute_url }}){:height="300px"}
 
-* Four Rows in The Dataset of iPhones*
+*Four Rows in The Dataset of iPhones*
 
 Note: Non-technical readers may choose to jump directly to the “Field Testing” section.
 
@@ -57,7 +57,7 @@ Both of the algorithms were trained and cross-validated on the same data. Below 
 
 ![Comparison of Metrics]({{ "/assets/model_performance_swappa.png" | absolute_url }}){:height="300px"}
 
-* Comparison of Metrics*
+*Comparison of Metrics*
 
 The better of the algorithm was the lasso, but only by a small margin. The Lasso is on average off by $32.64 on it’s predictions according to the gathered dataset. This seems to be pretty good. The lasso algorithm will be used moving forward.
 
@@ -68,7 +68,7 @@ The “iPhone 7+” and “Mint” dummy variables were dropped due to informati
 
 ![Field Test Data]({{ "/assets/field_test_data.png" | absolute_url }}){:height="300px"}
 
-* Predictive Model Coefficients*
+*Predictive Model Coefficients*
 
 ***
 
@@ -77,7 +77,7 @@ As mentioned previously, I used data from Oct 3–6 to design and train the mode
 
 ![Model Coefficients]({{ "/assets/model_coeff_swappa.png" | absolute_url }}){:height="300px"}
 
-* Dataset Unseen During Training/Testing*
+*Dataset Unseen During Training/Testing*
 
 I deployed the algorithm onto a website. See the gif below for an example of usage. The link to the page is at the bottom of this post.
 
