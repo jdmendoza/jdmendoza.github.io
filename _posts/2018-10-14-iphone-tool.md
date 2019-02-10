@@ -16,11 +16,12 @@ Before any algorithm could be trained, a dataset was required. I’ve had great 
 ![Dataset]({{ "/assets/swappa_data.png" | absolute_url }}){:height="300px"}
 
 4 Rows in The Dataset of iPhones
+
 Note: Non-technical readers may choose to jump directly to the “Field Testing” section.
 
 ***
 
-#Selection Of Important Features
+# Selection Of Important Features
 In order to increase the performance and data efficiency of the algorithm, the data had to be processed. We needed the most critical features to remain in the dataset, and any unimportant features to be dropped. It is important to note that categorical features such as “Condition”, where the entries are “Fair”, “Good”, “Mint” or “New (Resale)”, were converted to their own column with binary entries.
 
 Below are the two tools used to determine the correlation between the features and price.
@@ -77,11 +78,14 @@ As mentioned previously, I used data from Oct 3–6 to design and train the mode
 ![Model Coefficients]({{ "/assets/model_coeff_swappa.png" | absolute_url }}){:height="300px"}
 
 Dataset Unseen During Training/Testing
+
 I deployed the algorithm onto a website. See the gif below for an example of usage. The link to the page is at the bottom of this post.
 
 
 # Demo!!
 The deployed MPV can be accessed at the following link: https://used-iphone-valuation.herokuapp.com/
+
+Note: the model has not been updated. For euducational purposes only.
 
 # Thank You!!
 If you are interested in the code, see my GitHub here. Also, don’t forget to smash the clap button!
