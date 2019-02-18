@@ -1,7 +1,7 @@
 ---
 layout: post
-excerpt: "Walkthrough of using linear regression to value a used iPhone"
 title: Automatically Price Your Used iPhone
+excerpt: "Walkthrough of using linear regression to value a used iPhone"
 ---
 
 Using Data Science To Make Selling Your Phone Easy

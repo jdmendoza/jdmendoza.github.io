@@ -1,10 +1,10 @@
 ---
 layout: post
-excerpt: "Sharing a little bit about myself and how I became interested in AI"
 title: How I Got Interested In AI
+excerpt: "Sharing a little bit about myself and how I became interested in AI"
 ---
 
-# How I Got Interested In AI
+How I Got Interested In AI
 
 As the eldest of five boys, I have seen the developmental process and learning that takes place during infancy and childhood many times. The speed of this process has always fascinated me. It takes about three years before a child can understand the idea of order/sorting, which starts with sorting objects by shape and color. A year later they can draw circles and squares. Only a year after that, they begin counting ten objects or more. Check out the childhood milestones table from WebMD:
 

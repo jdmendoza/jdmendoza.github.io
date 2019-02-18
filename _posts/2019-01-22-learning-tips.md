@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Summary of Effective Learning Techniques
+excerpt: "Going through a few methods to learn more efficiently"
 ---
 
 ![Learning for Life]({{ "/assets/learning-for-life.png" | absolute_url }}){:height="300px"}
