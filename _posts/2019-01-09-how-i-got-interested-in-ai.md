@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt: "Sharing a little bit about myself and how I became interested in AI"
 title: How I Got Interested In AI
 ---
 
