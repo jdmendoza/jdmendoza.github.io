@@ -13,7 +13,7 @@ This is my portfolio of data science and machine learning projects. Each project
 
 # **Machine Learning Projects**
 ---
-## [Security Web Application w/ Face Detection and Recognition](https://github.com/dynogravelso/devweek_hackathon_2019)
+## [Security Web Application w/ Facial Recognition](https://github.com/dynogravelso/devweek_hackathon_2019)
 
 Description: Participated in the 2019 DeveloperWeek Hackathon in San Francisco. My team built a home security web application with two different modes that we demoed.
 
