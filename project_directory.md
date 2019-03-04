@@ -13,10 +13,15 @@ This is my portfolio of data science and machine learning projects. Each project
 
 # **Machine Learning Projects**
 ---
-## [Security Web Application w/ Face Detection and Recognition]
+## [Security Web Application w/ Face Detection and Recognition](https://github.com/dynogravelso/devweek_hackathon_2019)
 
-(https://github.com/dynogravelso/devweek_hackathon_2019)
-Participated in the 2019 DeveloperWeek Hackathon in San Francisco. My team built a home security web application with two different modes that we demoed. **Demo 1** - Intruder security mode which recognizes housemates. If an unknown person comes into frame, it sends you an SMS. **Demo 2** - Child security mode which sends an SMS if a child climbs out of their crib or if dangerous objects are detected in their vicinity (sharp items etc).
+Description: Participated in the 2019 DeveloperWeek Hackathon in San Francisco. My team built a home security web application with two different modes that we demoed.
+
+**Demo 1** - Intruder security mode which recognizes housemates. If an unknown person comes into frame, it sends you an SMS.
+
+**Demo 2** - Child security mode which sends an SMS if a child climbs out of their crib or if dangerous objects are detected in their vicinity (sharp items etc).
+
+
 
 ## [Deep Learning to Forecast Wikipedia Page Views](https://github.com/jdmendoza/wikipedia_time_series_forecasting)
 
