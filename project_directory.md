@@ -11,7 +11,7 @@ This is my portfolio of data science and machine learning projects. Each project
 [Twitter](https://twitter.com/Jdanny650)
 
 
-# **Machine Learning Projects**
+# Machine Learning Projects
 
 ---
 ## Security Web Application w/ Facial Recognition
@@ -69,7 +69,7 @@ Description: I webscraped data of recently sold iPhones on [Swappa](https://swap
 Description: Using Crunchbase data from 2004 - 2014, my partner Nazim and I investigated the important features that may help predict whether a startup will succeed.
 
 
-# **Data Analysis Projects**
+# Data Analysis Projects
 
 ---
 ## DSBlogs
