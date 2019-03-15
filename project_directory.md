@@ -6,14 +6,16 @@ title: Project Directory
 This is my portfolio of data science and machine learning projects. Each project has a link to the GitHub repo, a short project description and any additional collateral
 
 ### Contact Info:
-[Github](https://github.com/jdmendoza) |
+[GitHub](https://github.com/jdmendoza) |
 [LinkedIn](https://www.linkedin.com/in/jdmendoza1) |
 [Twitter](https://twitter.com/Jdanny650)
 
 
 # **Machine Learning Projects**
 ---
-## [Security Web Application w/ Facial Recognition](https://github.com/dynogravelso/devweek_hackathon_2019)
+## Security Web Application w/ Facial Recognition
+
+[GitHub Repo](https://github.com/dynogravelso/devweek_hackathon_2019) | nbviewer
 
 Description: Participated in the 2019 DeveloperWeek Hackathon in San Francisco. My team built a home security web application with two different modes that we demoed.
 
@@ -23,7 +25,9 @@ Description: Participated in the 2019 DeveloperWeek Hackathon in San Francisco. 
 
 
 
-## [Deep Learning to Forecast Wikipedia Page Views](https://github.com/jdmendoza/wikipedia_time_series_forecasting)
+## Deep Learning to Forecast Wikipedia Page Views
+
+[GitHub Repo](https://github.com/jdmendoza/wikipedia_time_series_forecasting) | [nbviewer](https://nbviewer.jupyter.org/github/jdmendoza/wikipedia_time_series_forecasting/blob/master/Wikipedia_Language_LSTM.ipynb)
 
 Description: Using two years worth of page-view data for 145k wikipedia pages in eight different languages, I trained one LSTM to forecast for the eight different time series.
 
@@ -31,19 +35,25 @@ Description: Using two years worth of page-view data for 145k wikipedia pages in
 
 
 
-## [Startup Recommendation Engine](https://github.com/jdmendoza/startup_recommendation_engine)
+## Startup Recommendation Engine
+
+[GitHub Repo](https://github.com/jdmendoza/startup_recommendation_engine) | [nbviewer](https://nbviewer.jupyter.org/github/jdmendoza/startup_recommendation_engine/blob/master/Startup_Recommender.ipynb)
 
 Description: Used K-Means clustering + NLP techniques on 20014-2014 CrunchBase data to recommend SF startups for job-seekers and investors. Rather than using a rigid approach like CrunchBase's search engine (filtering with rules), my engine uses an exploratory approach.
 
 
 
-## [Music Lyric Generator](https://github.com/jdmendoza/rap_lyrics_generator_lstm)
+## Music Lyric Generator
+
+[GitHub Repo](https://github.com/jdmendoza/rap_lyrics_generator_lstm) | [nbviewer](https://github.com/jdmendoza/rap_lyrics_generator_lstm/blob/master/Rap_Lyrics_Generation.ipynb)
 
 Description: I trained an LSTM with webscraped lyrics to generate lyrics in the style on an rap artist.  
 
 
 
-## [Pricing Tool for Used-iPhone](https://github.com/jdmendoza/used_iphone_price_prediction)
+## Pricing Tool for Used-iPhone
+
+[GitHub](https://github.com/jdmendoza/used_iphone_price_prediction) | [nbviewer](https://nbviewer.jupyter.org/github/jdmendoza/used_iphone_price_prediction/blob/master/3_Modeling_Data.ipynb)
 
 Description: I webscraped data of recently sold iPhones on [Swappa](https://swappa.com/buy/iphones). I used the data to train a linear regression model to predict a the value of an iPhone. I achieved an R2 of 0.97 and a standard error of $34.
 
@@ -51,20 +61,22 @@ Description: I webscraped data of recently sold iPhones on [Swappa](https://swap
 
 
 
-## [Predicting Startup Success](https://github.com/jdmendoza/predicting_startup_success)
+## [Predicting Startup Success]
+
+[GitHub](https://github.com/jdmendoza/predicting_startup_success) | [nbviewer](https://nbviewer.jupyter.org/github/jdmendoza/predicting_startup_success/blob/master/Danny_SF_Startup_Acquisition.ipynb)
 
 Description: Using Crunchbase data from 2004 - 2014, my partner Nazim and I investigated the important features that may help predict whether a startup will succeed.
 
 
 # **Data Analysis Projects**
 ---
-## [DSBlogs](https://github.com/jdmendoza/jdmendoza.github.io/tree/master/card_distribution)
+## DSBlogs
 
 Description: Created a website that scrapes the five  most recent blogs from my favorite data science bloggers.
 
 1. Website: [dsblogs](https://dsblogs.herokuapp.com/)
 
-## [Gods Unchained Project](https://github.com/jdmendoza/jdmendoza.github.io/tree/master/card_distribution)
+## Gods Unchained Project
 
 Description: I performed  webscraping on a card game webpage and visualized the data to investigate the effects of allowing players to directly buy card packs containing specific card rarities.
 
