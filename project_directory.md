@@ -11,7 +11,7 @@ This is my portfolio of data science and machine learning projects. Each project
 [Twitter](https://twitter.com/Jdanny650)
 
 
-# Machine Learning Projects
+## Machine Learning Projects
 
 ---
 # Security Web Application w/ Facial Recognition
@@ -26,7 +26,7 @@ Description: Participated in the 2019 DeveloperWeek Hackathon in San Francisco. 
 
 
 
-## Deep Learning to Forecast Wikipedia Page Views
+# Deep Learning to Forecast Wikipedia Page Views
 
 [GitHub Repo](https://github.com/jdmendoza/wikipedia_time_series_forecasting) | [nbviewer](https://nbviewer.jupyter.org/github/jdmendoza/wikipedia_time_series_forecasting/blob/master/Wikipedia_Language_LSTM.ipynb)
 
@@ -36,7 +36,7 @@ Description: Using two years worth of page-view data for 145k wikipedia pages in
 
 
 
-## Startup Recommendation Engine
+# Startup Recommendation Engine
 
 [GitHub Repo](https://github.com/jdmendoza/startup_recommendation_engine) | [nbviewer](https://nbviewer.jupyter.org/github/jdmendoza/startup_recommendation_engine/blob/master/Startup_Recommender.ipynb)
 
@@ -44,7 +44,7 @@ Description: Used K-Means clustering + NLP techniques on 20014-2014 CrunchBase d
 
 
 
-## Music Lyric Generator
+# Music Lyric Generator
 
 [GitHub Repo](https://github.com/jdmendoza/rap_lyrics_generator_lstm) | [nbviewer](https://nbviewer.jupyter.org/github/jdmendoza/rap_lyrics_generator_lstm/blob/master/Rap_Lyrics_Generation.ipynb)
 
@@ -52,7 +52,7 @@ Description: I trained an LSTM with webscraped lyrics to generate lyrics in the 
 
 
 
-## Pricing Tool for Used-iPhone
+# Pricing Tool for Used-iPhone
 
 [GitHub](https://github.com/jdmendoza/used_iphone_price_prediction) | [nbviewer](https://nbviewer.jupyter.org/github/jdmendoza/used_iphone_price_prediction/blob/master/3_Modeling_Data.ipynb)
 
@@ -62,23 +62,23 @@ Description: I webscraped data of recently sold iPhones on [Swappa](https://swap
 
 
 
-## Predicting Startup Success
+# Predicting Startup Success
 
 [GitHub](https://github.com/jdmendoza/predicting_startup_success) | [nbviewer](https://nbviewer.jupyter.org/github/jdmendoza/predicting_startup_success/blob/master/Danny_SF_Startup_Acquisition.ipynb)
 
 Description: Using Crunchbase data from 2004 - 2014, my partner Nazim and I investigated the important features that may help predict whether a startup will succeed.
 
 
-# Data Analysis Projects
+## Data Analysis Projects
 
 ---
-## DSBlogs
+# DSBlogs
 
 Description: Created a website that scrapes the five  most recent blogs from my favorite data science bloggers.
 
 1. Website: [dsblogs](https://dsblogs.herokuapp.com/)
 
-## Gods Unchained Project
+# Gods Unchained Project
 
 Description: I performed  webscraping on a card game webpage and visualized the data to investigate the effects of allowing players to directly buy card packs containing specific card rarities.
 
