@@ -12,6 +12,7 @@ This is my portfolio of data science and machine learning projects. Each project
 
 
 # **Machine Learning Projects**
+
 ---
 ## Security Web Application w/ Facial Recognition
 
@@ -69,6 +70,7 @@ Description: Using Crunchbase data from 2004 - 2014, my partner Nazim and I inve
 
 
 # **Data Analysis Projects**
+
 ---
 ## DSBlogs
 
