@@ -62,7 +62,7 @@ Description: I webscraped data of recently sold iPhones on [Swappa](https://swap
 
 
 
-## [Predicting Startup Success]
+## Predicting Startup Success
 
 [GitHub](https://github.com/jdmendoza/predicting_startup_success) | [nbviewer](https://nbviewer.jupyter.org/github/jdmendoza/predicting_startup_success/blob/master/Danny_SF_Startup_Acquisition.ipynb)
 
