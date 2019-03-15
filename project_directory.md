@@ -16,7 +16,7 @@ This is my portfolio of data science and machine learning projects. Each project
 ---
 ## Security Web Application w/ Facial Recognition
 
-[GitHub Repo](https://github.com/dynogravelso/devweek_hackathon_2019) | nbviewer
+[GitHub Repo](https://github.com/dynogravelso/devweek_hackathon_2019)
 
 Description: Participated in the 2019 DeveloperWeek Hackathon in San Francisco. My team built a home security web application with two different modes that we demoed.
 
@@ -46,7 +46,7 @@ Description: Used K-Means clustering + NLP techniques on 20014-2014 CrunchBase d
 
 ## Music Lyric Generator
 
-[GitHub Repo](https://github.com/jdmendoza/rap_lyrics_generator_lstm) | [nbviewer](https://github.com/jdmendoza/rap_lyrics_generator_lstm/blob/master/Rap_Lyrics_Generation.ipynb)
+[GitHub Repo](https://github.com/jdmendoza/rap_lyrics_generator_lstm) | [nbviewer](https://nbviewer.jupyter.org/github/jdmendoza/rap_lyrics_generator_lstm/blob/master/Rap_Lyrics_Generation.ipynb)
 
 Description: I trained an LSTM with webscraped lyrics to generate lyrics in the style on an rap artist.  
 
