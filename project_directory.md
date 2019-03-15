@@ -14,7 +14,7 @@ This is my portfolio of data science and machine learning projects. Each project
 # Machine Learning Projects
 
 ---
-## Security Web Application w/ Facial Recognition
+# Security Web Application w/ Facial Recognition
 
 [GitHub Repo](https://github.com/dynogravelso/devweek_hackathon_2019)
 
