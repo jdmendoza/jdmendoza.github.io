@@ -18,7 +18,7 @@ The most common search engine for startups is CrunchBase and they use a purely e
 ## Clustering
 Clustering is an unsupervised machine learning method. Unsupervised learning means that a human does not tell the algorithm which group the data points belong to. These algorithms find patterns in the data points and lump them together. The specific clustering algorithm I used was [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering) with [k-means ** initialization](https://en.wikipedia.org/wiki/K-means%2B%2B).
 
-![Block Diagram]({{ "/assets/startup_recommender_diagram.png" | absolute_url }}){:height="300px"}
+![Block Diagram]({{ "/assets/iris_kmeans.png" | absolute_url }}){:height="300px"}
 
 Above is an example of clustering in action. The various colors correspond to a group or cluster. The data used above from the popular Iris flower dataset and the image was downloaded from [Wikipedia](https://en.wikipedia.org/wiki/Iris_flower_data_set).
 
