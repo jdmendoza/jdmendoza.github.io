@@ -42,6 +42,7 @@ The features, *company_category_list* and  *company_market* in the dataset are c
 
 ## Clustering Pipeline
 ![Block Diagram]({{ "/assets/startup_recommender_diagram.png" | absolute_url }}){:height="300px"}
+
 Above is a block diagram visualization of the data pipeline.
 
 Note: the Market data is not implemented in the public version of the project. Still optimizing the cluster number.
