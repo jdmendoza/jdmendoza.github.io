@@ -54,7 +54,10 @@ Once the startups were clustered, I used Plotly along with Dash to create a webs
 ## Demo
 Dashboard in Action
 
-![Dashboard](https://media.giphy.com/media/2wU7GtEEBXaM3JS97p/giphy.gif)
+Try out the demo here: https://startup-rec.herokuapp.com/
 
 ## Future Updates
-I’m working on deploying the application to the web. Meanwhile, feel free to clone my git repo and run it locally.
+
+- Get updated data!
+- Scrape more data on the companies
+- Apply NLP to new scraped data (e.g. text on their websites, company descriptions)
