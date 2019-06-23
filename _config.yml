@@ -3,7 +3,7 @@ title: J. Danny Mendoza blog
 author: J. Danny Mendoza
 email: jdmendoza@alumni.scu.edu
 description: Knowledge Without Action is Useless,   So I Build Stuff
-twitter_username: Jdanny650
+twitter_username: @dmendoza_py
 github_username: jdmendoza
 linkedin_username: jdmendoza1
 disqus:
@@ -12,7 +12,7 @@ disqus:
 
 #Build Settings
 markdown: kramdown
-theme: minima
+theme: minimal
 
 header_pages:
   - project_directory.md
