@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Applied Deep Learning: Im-2-LaTeX
+title: Applied Deep Learning - Im2LaTeX
 ---
 
 Using Deep Learning To Convert Images Of Equations To LaTeX
