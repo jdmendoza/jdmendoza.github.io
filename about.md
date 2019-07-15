@@ -21,6 +21,4 @@ Feel free to tweet me, email me, LinkedIn message.
 
 
 
-![Mexico City Pyramids]({{ "/assets/pyramid_of_the_sun.png" | absolute_url }}){:height="200px"}
-
-*Teotihuacan, Mexico*
+![Snorkeling]({{ "/assets/snorkel.jpg" | absolute_url }}){:height="200px"}
