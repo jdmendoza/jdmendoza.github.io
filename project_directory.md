@@ -13,7 +13,7 @@ title: Project Directory
 
 Description: Worked on a deep learning model for converting images of equations to LaTeX. Achieved public SoTA on the perplexity metric.
 
-1. Wandb Featured Article: Image-To-LaTeX[https://www.wandb.com/articles/image-to-latex]
+1. Wandb Featured Article: [Image-To-LaTeX](https://www.wandb.com/articles/image-to-latex)
 
 # Deep Learning to Forecast Wikipedia Page Views
 
