@@ -3,12 +3,6 @@ layout: page
 title: Project Directory
 ---
 
-# Contact Info:
-[GitHub](https://github.com/jdmendoza) |
-[LinkedIn](https://www.linkedin.com/in/jdmendoza1) |
-[Twitter](https://twitter.com/dmendoza_py)
-
-
 # Image To Latex
 
 Description: Worked on a deep learning model for converting images of equations to LaTeX. Achieved public SoTA on the perplexity metric.
