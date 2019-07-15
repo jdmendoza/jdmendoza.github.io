@@ -3,28 +3,17 @@ layout: page
 title: Project Directory
 ---
 
-This is my portfolio of data science and machine learning projects. Each project has a link to the GitHub repo, a short project description and any additional collateral
-
-### Contact Info:
+# Contact Info:
 [GitHub](https://github.com/jdmendoza) |
 [LinkedIn](https://www.linkedin.com/in/jdmendoza1) |
-[Twitter](https://twitter.com/Jdanny650)
+[Twitter](https://twitter.com/dmendoza_py)
 
 
-## Machine Learning Projects
+# Image To Latex
 
----
-# Security Web Application w/ Facial Recognition
+Description: Worked on a deep learning model for converting images of equations to LaTeX. Achieved public SoTA on the perplexity metric.
 
-[GitHub Repo](https://github.com/dynogravelso/devweek_hackathon_2019)
-
-Description: Participated in the 2019 DeveloperWeek Hackathon in San Francisco. My team built a home security web application with two different modes that we demoed.
-
-**Demo 1** - Intruder security mode which recognizes housemates. If an unknown person comes into frame, it sends you an SMS.
-
-**Demo 2** - Child security mode which sends an SMS if a child climbs out of their crib or if dangerous objects are detected in their vicinity (sharp items etc).
-
-
+1. Wandb Featured Article: Image-To-LaTeX[https://www.wandb.com/articles/image-to-latex]
 
 # Deep Learning to Forecast Wikipedia Page Views
 
@@ -44,14 +33,6 @@ Description: Used K-Means clustering + NLP techniques on 20014-2014 CrunchBase d
 
 
 
-# Music Lyric Generator
-
-[GitHub Repo](https://github.com/jdmendoza/rap_lyrics_generator_lstm) | [nbviewer](https://nbviewer.jupyter.org/github/jdmendoza/rap_lyrics_generator_lstm/blob/master/Rap_Lyrics_Generation.ipynb)
-
-Description: I trained an LSTM with webscraped lyrics to generate lyrics in the style on an rap artist.  
-
-
-
 # Pricing Tool for Used-iPhone
 
 [GitHub](https://github.com/jdmendoza/used_iphone_price_prediction) | [nbviewer](https://nbviewer.jupyter.org/github/jdmendoza/used_iphone_price_prediction/blob/master/3_Modeling_Data.ipynb)
@@ -61,22 +42,12 @@ Description: I webscraped data of recently sold iPhones on [Swappa](https://swap
 1. Medium Post: [Automatically Price Your Used iPhone](https://medium.com/@jdannym93/automatically-price-your-used-iphone-2a83bb9eac30)
 
 
-
 # Predicting Startup Success
 
 [GitHub](https://github.com/jdmendoza/predicting_startup_success) | [nbviewer](https://nbviewer.jupyter.org/github/jdmendoza/predicting_startup_success/blob/master/Danny_SF_Startup_Acquisition.ipynb)
 
 Description: Using Crunchbase data from 2004 - 2014, my partner Nazim and I investigated the important features that may help predict whether a startup will succeed.
 
-
-## Data Analysis Projects
-
----
-# DSBlogs
-
-Description: Created a website that scrapes the five  most recent blogs from my favorite data science bloggers.
-
-1. Website: [dsblogs](https://dsblogs.herokuapp.com/)
 
 # Gods Unchained Project
 
