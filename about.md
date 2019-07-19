@@ -3,7 +3,9 @@ layout: page
 title: About Me
 ---
 
-**About** I'm Danny Mendoza, born and raised in the Bay Area. I'm passionate about writing code that learns patterns in data and having it do cool things. You can find the code for my projects on [GitHub](https://github.com/jdmendoza). 
+**About**
+
+I'm Danny Mendoza, born and raised in the Bay Area. I'm passionate about writing code that learns patterns in data and having it do cool things. You can find the code for my projects on [GitHub](https://github.com/jdmendoza). 
 
 **Timeline**
 - 2019: *Data Analyst, Risk* at LendingClub

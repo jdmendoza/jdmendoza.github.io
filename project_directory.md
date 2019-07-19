@@ -26,7 +26,7 @@ Description: Using two years worth of page-view data for 145k wikipedia pages in
 Description: Used K-Means clustering + NLP techniques on 20014-2014 CrunchBase data to recommend SF startups for job-seekers and investors. Rather than using a rigid approach like CrunchBase's search engine (filtering with rules), my engine uses an exploratory approach.
 
 
-**Pricing Tool for Used-iPhone **
+**Pricing Tool for Used-iPhone**
 
 [GitHub](https://github.com/jdmendoza/used_iphone_price_prediction) | [nbviewer](https://nbviewer.jupyter.org/github/jdmendoza/used_iphone_price_prediction/blob/master/3_Modeling_Data.ipynb)
 
