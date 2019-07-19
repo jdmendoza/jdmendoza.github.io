@@ -45,9 +45,6 @@ Some techniques to apply this idea:
 - Breakup Your Studying: Learn the material in the early part of the day, but don’t do homework/study until after some time has passed. Interweave other subjects if you want to be time efficient.
 - Spreadsheet: Create a spreadsheet with each topic in a subject that you want to learn from and every time you review it (by active recall!) add the date and color it to show how well you did. Ali calls this method his “magical spreadsheet method”.
 
-## Conclusion
-As a data scientist trying to become an expert in the field, I am reviewing a bunch of topics I covered in college and also teaching myself new materials. I have a large stack of books on my desk and many video files on my computer that I am chugging through. I definitely plan on applying these techniques during my studying.
-
 ## Sources
 I highly recommend you check out Ali’s three videos and his Youtube channel, see below.
 
