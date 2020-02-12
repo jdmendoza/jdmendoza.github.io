@@ -15,5 +15,6 @@ markdown: kramdown
 theme: minima
 
 header_pages:
+  - blog.md
   - project_directory.md
   - about.md
