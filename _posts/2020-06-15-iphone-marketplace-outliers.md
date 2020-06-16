@@ -1,7 +1,7 @@
 ---
 layout: post
-title: iPhone Marketplace Analysis: Outliers
-excerpt: 
+title: iPhone Marketplace Analysis - Outliers
+excerpt:
 ---
 
 
