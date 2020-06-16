@@ -23,8 +23,9 @@ The light blue data point up top closed with a price of $1475. Initially, I was 
 On the bottom of the plot there are two distinct purple dots—iPhone 7 pluses—priced at $1 and $30. I looked at the listings (below) and to my surprise, these phones were fully functional! The sellers must have made a mistake when they posted them.
 
 
-![mispriced_1]({{ "/assets/mispriced_1.png" | absolute_url }}){:height="300px"}
-![mispriced_2]({{ "/assets/mispriced_2.png" | absolute_url }}){:height="300px"}
+![misprice_1]({{ "/assets/misprice_1.png" | absolute_url }}){:height="300px"}
+
+![misprice_2]({{ "/assets/misprice_2.png" | absolute_url }}){:height="300px"}
 
 
 What about less obviously mispriced phones? I searched the dataset for underpriced phones—where sale price was less than average per model minus 2 standard deviations—or overpriced—the sale was over the average plus 2 standard deviations. There were total of 361 underpriced phones and 1073 overpriced phones. The imbalance might be explained by the loss aversion cognitive bias. The seller is afraid to lose money so they tend to skew towards the higher end.
